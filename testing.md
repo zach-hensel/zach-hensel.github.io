@@ -1,5 +1,5 @@
 {: style="text-align:center"}
-**[about the lab](about.md)** — **[people](people.md)** — **[research](research.md)** — **[misc](misc.md)**<
+**[about the lab](about.md)** — **[people](people.md)** — **[research](research.md)** — **[misc](misc.md)**
 
 ## This is an example page
 
