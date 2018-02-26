@@ -1,4 +1,4 @@
-<p style="text-align: center;">**[about the lab](about.md)** — **[people](people.md)** — **[research](research.md)** - **[misc](misc.md)**</p>
+<center>**[about the lab](about.md)** — **[people](people.md)** — **[research](research.md)** — **[misc](misc.md)**</center>
 
 ## This is an example page
 
