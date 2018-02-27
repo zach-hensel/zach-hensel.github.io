@@ -9,6 +9,7 @@ The journal club will review an article and write a review to submit to the [biO
 ### 11 Dec 2017
 
 **[Atypical domain communication and domain functions of a Hsp110 chaperone](https://www.biorxiv.org/content/early/2017/11/17/220798)**  
+[Alvaro Crevenna](http://www.itqb.unl.pt/research/biological-chemistry/biomolecular-self-organization) led the discussion, with assistance of interpreting SAXS data from [Tiago Cordeiro](http://www.itqb.unl.pt/research/biological-chemistry/dynamic-structural-biology)
 
 
 ### 9 Nov 2017
