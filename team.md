@@ -1,10 +1,10 @@
-If you are interested in joining the lab, please contact Zach.
+If you are interested in joining the lab, please contact Zach to discuss possible projects an funding opportunities.
 
 ## Current team members
 
 ### Zach Hensel
 
-[zach.hensel@itqb.unl.pt](zach.hensel@itqb.unl.pt)
+[zach.hensel@itqb.unl.pt](zach.hensel@itqb.unl.pt)  
 [Google Scholar](https://scholar.google.pt/citations?user=QwsENLQAAAAJ&hl=en)  
 [Twitter](https://twitter.com/alchemytoday)
 
