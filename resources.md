@@ -22,4 +22,5 @@
 ### Random
 
 * [GitHub repository for this page](https://github.com/zach-hensel/zach-hensel.github.io): Clone to make your own lab site.
+* [New PI Slack](https://newpislack.wordpress.com/): An amazing community of early career PIs
 
