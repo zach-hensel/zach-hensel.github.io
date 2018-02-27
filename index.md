@@ -15,7 +15,7 @@ Check out our most recent paper on a new [low-noise gene expression system](http
 
 ## Funding
 
-Our work is financially supported by: Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular) funded by FEDER funds through COMPETE2020 - Programa Operacional Competitividade e Internacionalização (POCI), by national funds through FCT - Fundação para a Ciência e a Tecnologia
+Our work is financially supported by: Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular) funded by FEDER funds through COMPETE2020 - Programa Operacional Competitividade e Internacionalização (POCI), by national funds through FCT - Fundação para a Ciência e a Tecnologia.
 
 ### Markdown
 
