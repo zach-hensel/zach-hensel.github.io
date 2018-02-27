@@ -1,7 +1,7 @@
 {: style="text-align:center"}
 **[home](index.md)** — **[about the lab](about.md)** — **[people](people.md)** — **[research](research.md)** — **[misc](misc.md)**
 
-## This is an example page
+## BLAH
 
 You can use the [editor on GitHub](https://github.com/zach-hensel/zach-hensel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
