@@ -1,4 +1,4 @@
-# Bem vindo!
+## Bem vindo!
 
 Welcome to our lab! We are part of the [MostMicro](http://www.itqb.unl.pt/mostmicro) research unit at [ITQB NOVA](http://www.itqb.unl.pt/) (Instituto de Technologia, Química e Biológica António Xiavier), an institute of [Universidade NOVA de Lisboa](http://www.unl.pt/). The lab started in January 2017.
 
@@ -8,9 +8,10 @@ Our lab answers questions in microbial molecular biology, with a methodological 
 
 ## Current work
 
-Check out our most recent paper on a new [low-noise gene expression system](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187259) in E. coli ([plasmids available at AddGene](https://www.addgene.org/Zach_Hensel/)). Browse the [Research](research.md) page for details about our projects.
+Check out our most recent paper on a new [low-noise gene expression system](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187259) in E. coli ([plasmids available at AddGene](https://www.addgene.org/Zach_Hensel/)). We developed this to facilitate single-molecule experiments with fluorescent proteins that require very low expression levels with very low cell-to-cell variation. Browse the [Research](research.md) page for details about our other projects.
 
 ![low-noise expression from 100 to 10,000 molecules/cell](/img/lownoise.jpg)
+
 *Gene expression from 100 to 10,000 molecules/cell with low cell-to-cell variation*
 
 ## Funding
