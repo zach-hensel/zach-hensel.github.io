@@ -1,5 +1,5 @@
 {: style="text-align:center"}
-**[about the lab](about.md)** — **[people](people.md)** — **[research](research.md)** — **[misc](misc.md)**
+**[home](index.md)** — **[about the lab](about.md)** — **[people](people.md)** — **[research](research.md)** — **[misc](misc.md)**
 
 ## This is an example page
 
@@ -38,3 +38,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+***
+
+{: style="text-align:center"}
+**[home](index.md)** — **[about the lab](about.md)** — **[people](people.md)** — **[research](research.md)** — **[misc](misc.md)**
