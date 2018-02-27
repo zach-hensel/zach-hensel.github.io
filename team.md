@@ -1,3 +1,5 @@
+## Join our team
+
 If you are interested in joining the lab, please contact 
 
 ## Current team members
