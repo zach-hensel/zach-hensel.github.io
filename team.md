@@ -4,7 +4,7 @@ If you are interested in joining the lab, please contact Zach to discuss possibl
 
 ### Zach Hensel
 
-[zach.hensel@itqb.unl.pt](zach.hensel@itqb.unl.pt)  
+[zach.hensel@itqb.unl.pt](mailto:zach.hensel@itqb.unl.pt)  
 [Google Scholar](https://scholar.google.pt/citations?user=QwsENLQAAAAJ&hl=en)  
 [Twitter](https://twitter.com/alchemytoday)
 
