@@ -1,6 +1,3 @@
-{: style="text-align:center"}
-**[home](index.md)** — **[research](research.md)** — **[team](team.md)** — **[research](research.md)** — **[resources](resources.md)**
-
 # Bem vindo!
 
 Welcome to our lab! We are part of the [MostMicro](http://www.itqb.unl.pt/mostmicro) research unit at [ITQB NOVA](http://www.itqb.unl.pt/) (Instituto de Technologia, Química e Biológica António Xiavier), an institute of [Universidade NOVA de Lisboa](http://www.unl.pt/). The lab started in January 2017.
@@ -49,7 +46,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-***
 
-{: style="text-align:center"}
-**[home](index.md)** — **[research](research.md)** — **[team](team.md)** — **[research](research.md)** — **[resources](resources.md)**
