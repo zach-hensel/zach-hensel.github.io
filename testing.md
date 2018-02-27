@@ -1,5 +1,5 @@
 {: style="text-align:center"}
-**[home](index.md)** — **[about the lab](about.md)** — **[people](people.md)** — **[research](research.md)** — **[misc](misc.md)**
+**[home](index.md)** — **[research](research.md)** — **[team](team.md)** — **[research](research.md)** — **[resources](resources.md)**
 
 ## BLAH2
 
@@ -42,4 +42,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ***
 
 {: style="text-align:center"}
-**[home](index.md)** — **[about the lab](about.md)** — **[people](people.md)** — **[research](research.md)** — **[misc](misc.md)**
+**[home](index.md)** — **[research](research.md)** — **[team](team.md)** — **[research](research.md)** — **[resources](resources.md)**
