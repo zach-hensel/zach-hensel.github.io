@@ -1,6 +1,6 @@
 ## ITQB Preprint Journal Club
 
-Please contact [Zach Hensel](mailto:zach.hensel@itqb.unl.pt) if you want to volunteer to present at the preprint journal club or be added to the mailing list to be notified about future meetings.
+Please contact [Zach](mailto:zach.hensel@itqb.unl.pt) if you want to volunteer to present at the preprint journal club or be added to the mailing list to be notified about future meetings.
 
 ### TBD
 

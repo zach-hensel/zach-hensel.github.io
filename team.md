@@ -2,7 +2,7 @@ If you are interested in joining the lab, please contact Zach to discuss possibl
 
 ## Current team members
 
-### Zach Hensel
+### Zach Hensel (head of lab)
 
 [zach.hensel@itqb.unl.pt](mailto:zach.hensel@itqb.unl.pt)  
 [Google Scholar](https://scholar.google.pt/citations?user=QwsENLQAAAAJ&hl=en)  
@@ -12,9 +12,17 @@ If you are interested in joining the lab, please contact Zach to discuss possibl
 
 I am an advocate for open research initiatives (especially preprint) through affiliations with interest groups at [ASAPbio](http://asapbio.org/asapbio-ambassadors) and [eLife](https://elifesciences.org/inside-elife/912b0679/early-career-advisory-group-elife-welcomes-150-ambassadors-of-good-practice-in-science). I run the [ITQB preprint journal club](https://www.prereview.org/users/172741/articles/210868-itqb-preprint-journal-club-9-nov-2017).
 
+### João Silva (masters student)
+
+### Soraia Lopes (post-masters research fellow)
+
 ## Alumni
 
 ### Summer Interns
 
 * João Ferreira (IST, 2017)
 * Pedro Ladino (FCUL, 2017)
+
+### Rotation Students
+
+* Sara Handem (ITQB MolBioS, 2017)
