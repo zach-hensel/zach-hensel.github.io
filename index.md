@@ -10,6 +10,8 @@ Our lab answers questions in microbial molecular biology, with a methodological 
 
 Check out our most recent paper on a new [low-noise gene expression system](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187259) in E. coli ([plasmids available at AddGene](https://www.addgene.org/Zach_Hensel/)). Browse the [Research](research.md) page for details about our projects.
 
+![low-noise expression from 100 to 10,000 molecules/cell](/img/lownoise.jpg)
+
 ## Funding
 
 Our work is financially supported by: Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular) funded by FEDER funds through COMPETE2020 - Programa Operacional Competitividade e Internacionalização (POCI), by national funds through FCT - Fundação para a Ciência e a Tecnologia.
