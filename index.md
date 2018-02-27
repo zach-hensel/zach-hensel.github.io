@@ -10,7 +10,7 @@ Our lab answers questions in microbial molecular biology, with a methodological 
 
 Check out our most recent paper on a new [low-noise gene expression system](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187259) in E. coli ([plasmids available at AddGene](https://www.addgene.org/Zach_Hensel/)). Browse the [Research](research.md) page for details about our projects.
 
-![low-noise expression from 100 to 10,000 molecules/cell](/img/lownoise.jpg)
+![low-noise expression from 100 to 10,000 molecules/cell](/img/lownoise.jpg =200x)
 
 ## Funding
 
