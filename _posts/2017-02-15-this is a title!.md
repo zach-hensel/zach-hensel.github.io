@@ -1,3 +1,3 @@
-## This is the title of the first blogpost
+This is a test of the first blogpost. it's a great post.
 
-This is a test of the first blogpost
+This is the 2nd paragraph!
