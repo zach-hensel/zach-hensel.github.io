@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-header {
+page-header {
   background-image: url('{{ site.baseurl }}/img/tempLabHome.png');
 }
