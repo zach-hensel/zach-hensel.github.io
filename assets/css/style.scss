@@ -3,6 +3,5 @@
 
 @import "{{ site.theme }}";
 
-page-header {
-  background-image: url('{{ site.baseurl }}/img/tempLabHome.png');
-}
+$header-bg-color: #FFFFFF
+%header-bg-color-secondary: #000000
