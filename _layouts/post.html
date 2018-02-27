@@ -5,13 +5,14 @@ layout: default
 <article class="post">
   <h2>{{ page.title }}</h2>
 
+  <div class="date">
+    {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
   <div class="entry">
     {{ content }}
   </div>
 
-  <div class="date">
-    {{ page.date | date: "%B %e, %Y" }}
-  </div>
 <p>
 	<div id="post-nav">
 		<div >    
