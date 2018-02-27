@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+header {
+  background-image: url('{{ site.baseurl }}/img/tempLabHome.png');
+}
