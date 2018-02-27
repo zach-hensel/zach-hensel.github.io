@@ -4,11 +4,9 @@ If you are interested in joining the lab, please contact Zach.
 
 ### Zach Hensel
 
-**E-mail** zach dot hensel at itqb dot unl dot pt  
+[zach.hensel@itqb.unl.pt](zach.hensel@itqb.unl.pt)
 [Google Scholar](https://scholar.google.pt/citations?user=QwsENLQAAAAJ&hl=en)  
 [Twitter](https://twitter.com/alchemytoday)
-
-#### Bio
 
 ![Zach](img/zach.jpg){: .image-left } I came to the lab after doing postdoctoral work at the [Okinawa Institute of Science and Technology](https://www.oist.jp/). I've worked on single-protein imaging (mostly using components from bacteriophage λ) since my PhD work with [Jie Xiao](http://xiao.med.jhmi.edu/). Now I am interested in expanding that work to image mRNA and protein at the same time for a single gene (ultimately, for more than one gene), employing these techniques in living biofilms, and investigating molecular mechanisms of gene regulation.
 
