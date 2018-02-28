@@ -9,6 +9,7 @@
 
 * [biOverlay](https://www.bioverlay.org/): A meta-journal highlighting recent, significant preprints
 * [AddGene](https://www.addgene.org/): Easy plasmid (and more) distribution for all
+* [OSODOS](https://pfern.github.io/OSODOS/gitbook/) Online textbook on open science: "21st century research skills for the life sciences"
 
 ### Scientific writing
 
