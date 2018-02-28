@@ -1,6 +1,6 @@
 ## Bem vindo!
 
-Welcome to our lab! We are part of the [MostMicro](http://www.itqb.unl.pt/mostmicro) research unit at [ITQB NOVA](http://www.itqb.unl.pt/) (Instituto de Technologia, Química e Biológica António Xiavier), an institute of [Universidade NOVA de Lisboa](http://www.unl.pt/). The lab started in January 2017.
+Welcome to our lab! We are part of the [MostMicro](http://www.itqb.unl.pt/mostmicro) research unit at [ITQB NOVA](http://www.itqb.unl.pt/), an institute of [Universidade NOVA de Lisboa](http://www.unl.pt/). The lab started in January 2017.
 
 ## Mission Statement
 
