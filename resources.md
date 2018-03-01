@@ -3,7 +3,7 @@
 ### ITQB 
 
 * [ITQB Preprint Journal Club](preprintjc)
-* [Gene Expression Mechanisms and System Biology](geneexp): Documents for the 2018 course
+* [Gene Expression Mechanisms and System Biology](/gem2018/): Documents for the 2018 course
 
 ### Open science
 
@@ -14,6 +14,11 @@
 ### Scientific writing
 
 * [Ten simple rules for structuring papers](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+
+### Useful information
+
+* [Biophysics: Searching for Principles](https://sites.google.com/site/biophysicsbook/): A biophysics textbook from a physics perspective ([PDF](https://www.princeton.edu/~wbialek/PHY562/WB_biophysics110918.pdf))
+* [Bionumbers](http://bionumbers.hms.harvard.edu/): A database of useful biological numbers/parameters; check out the [related book](http://book.bionumbers.org/)
 
 ### Software used in the lab
 
