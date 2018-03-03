@@ -8,3 +8,7 @@ Course dates: 5 Mar--9 Mar, 2018
 
 * [Syllabus and Project/Evaluation Guidelines](syllabus.pdf) (PDF)
 * [Calendar](calendar.pdf) (PDF)
+
+### Course resources
+
+* [How to find preprints](https://docs.google.com/document/d/1VkAe4OwQ_X2m7Yw9rptviw_23QgHf3JzKV60aY4MY3g/edit?usp=sharing) (Google Doc)
