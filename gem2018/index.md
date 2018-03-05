@@ -21,3 +21,10 @@ Course dates: 5 Mar--9 Mar, 2018
 
 * [(Pop Science, Public) Brain Cells Share Information With Virus—Like Capsules](https://www.theatlantic.com/science/archive/2018/01/brain-cells-can-share-information-using-a-gene-that-came-from-viruses/550403/) (Link)
 * [(Pop Science, Expert) Cells hack virus-like protein to communication](https://www.nature.com/articles/d41586-018-00492-w) (Link)
+
+### Talk/Discussion 6: Post-Scan Discussion
+
+Cecília Arraiano will give a talk: *Kicking “the BolA” in Bacterial Survival and Virulence*. Check out some of her lab's recent papers on the subject.
+
+* [BolA Is Required for the Accurate Regulation of c-di-GMP, a Central Player in Biofilm Formation (2017)](http://mbio.asm.org/content/8/5/e00443-17.short) (Link)
+* [BolA Is a Transcriptional Switch That Turns Off Motility and Turns On Biofilm Development (2015)](http://mbio.asm.org/content/6/1/e02352-14.full) (Link)
