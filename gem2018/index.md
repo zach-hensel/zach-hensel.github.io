@@ -20,8 +20,11 @@ Course dates: 5 Mar--9 Mar, 2018
 ### TP1: Preprint Journal Club Assignment
 
 * [How to find preprints](https://docs.google.com/document/d/1VkAe4OwQ_X2m7Yw9rptviw_23QgHf3JzKV60aY4MY3g/edit?usp=sharing) (Google Doc)
-* [(Pop Science, Public) Brain Cells Share Information With Virus—Like Capsules](https://www.theatlantic.com/science/archive/2018/01/brain-cells-can-share-information-using-a-gene-that-came-from-viruses/550403/) (Link)
-* [(Pop Science, Expert) Cells hack virus-like protein to communication](https://www.nature.com/articles/d41586-018-00492-w) (Link)
+
+* How to write a pop science article:
+	* [(The article) The Neuronal Gene Arc Encodes a Repurposed Retrotransposon Gag Protein that Mediates Intercellular RNA Transfer](http://www.cell.com/cell/fulltext/S0092-8674(17)31504-0) Link: https://doi.org/10.1016/j.cell.2017.12.024	
+	* [(Pop Science, Public) Brain Cells Share Information With Virus—Like Capsules](https://www.theatlantic.com/science/archive/2018/01/brain-cells-can-share-information-using-a-gene-that-came-from-viruses/550403/) (Link)
+	* [(Pop Science, Expert) Cells hack virus-like protein to communication](https://www.nature.com/articles/d41586-018-00492-w) (Link)
 * [How to write a preprint review](https://www.authorea.com/users/164141/articles/200820-prereview-guidelines-how-to-write-a-preprint-review) (Link)
 * [ITQB Preprint Journal Club Review](https://www.authorea.com/users/172741/articles/210868-itqb-preprint-journal-club-9-nov-2017) (Link)
 
