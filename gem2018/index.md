@@ -9,6 +9,10 @@ Course dates: 5 Mar--9 Mar, 2018
 * [Syllabus and Project/Evaluation Guidelines](syllabus.pdf) (PDF)
 * [Calendar](calendar.pdf) (PDF)
 
+### Resources
+
+* [Systems Biology Lectures (Uri Alon)](https://www.youtube.com/watch?v=Z__BHVFP0Lk)
+
 ### Talk 1: Introduction
 
 * [Francis Crick: On Protein Synthesis](papers/Crick_1958_On protein synthesis.pdf) (PDF)
