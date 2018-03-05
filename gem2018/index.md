@@ -16,3 +16,8 @@ Course dates: 5 Mar--9 Mar, 2018
 ### Talk 1: Introduction
 
 * [Francis Crick: On Protein Synthesis](papers/Crick_1958_On protein synthesis.pdf) (PDF)
+
+### TP1: Preprint Journal Club Assignment
+
+* [(Pop Science, Public) Brain Cells Share Information With Virus—Like Capsules](https://www.theatlantic.com/science/archive/2018/01/brain-cells-can-share-information-using-a-gene-that-came-from-viruses/550403/) (Link)
+* [(Pop Science, Expert) Cells hack virus-like protein to communication](https://www.nature.com/articles/d41586-018-00492-w) (Link)
