@@ -38,6 +38,7 @@ Course dates: 5 Mar--9 Mar, 2018
 	* [GUT MICROBIOTA COMPOSITION IMPACTS HOST GENE EXPRESSION BY CHANGING CHROMATIN ACCESSIBILITY](highlights/mcclintock.pdf) (PDF)
 	* [A “blimp” of time](highlights/zhuang.pdf) (PDF)
 	* [Highlight article: Hsf1 phosphorylation generates cell-to-cell variation in Hsp90 levels and promotes phenotypic plasticity](highlights/oshea.pdf) (PDF)
+	* [NR5A2 – What does not differentiate us may hurt us](highlights/ptashne.pdf) (PDF)
 	
 
 
