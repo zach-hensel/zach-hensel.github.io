@@ -11,7 +11,10 @@ Course dates: 5 Mar--9 Mar, 2018
 
 ### Resources
 
-* [Systems Biology Lectures (Uri Alon)](https://www.youtube.com/watch?v=Z__BHVFP0Lk)
+* [Systems Biology Lectures (Uri Alon)](https://www.youtube.com/watch?v=Z__BHVFP0Lk) (YouTube)
+* [Bionumbers](http://bionumbers.hms.harvard.edu/) (Link)
+* [Bionumbers book](http://book.bionumbers.org/) (Link)
+* [Biophysics: Searching For Principles (book)](https://sites.google.com/site/biophysicsbook/) (Link)
 
 ### Talk 1: Introduction
 
