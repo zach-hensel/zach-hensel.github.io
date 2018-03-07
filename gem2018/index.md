@@ -20,7 +20,7 @@ Course dates: 5 Mar--9 Mar, 2018
 
 * [Francis Crick: On Protein Synthesis](papers/Crick_1958_On protein synthesis.pdf) (PDF)
 
-### TP1: Preprint Journal Club Assignment
+### Team Project: Preprint Journal Club Assignment
 
 * [How to find preprints](https://docs.google.com/document/d/1VkAe4OwQ_X2m7Yw9rptviw_23QgHf3JzKV60aY4MY3g/edit?usp=sharing) (Google Doc)
 * How to write a pop science article:
@@ -31,6 +31,13 @@ Course dates: 5 Mar--9 Mar, 2018
 	* [Scientific writing tips from Celia Elliott (UIUC)](https://physics.illinois.edu/people/directory/profile/cmelliot) (Link; scroll down)
 * [How to write a preprint review](https://www.authorea.com/users/164141/articles/200820-prereview-guidelines-how-to-write-a-preprint-review) (Link)
 * [ITQB Preprint Journal Club Review](https://www.authorea.com/users/172741/articles/210868-itqb-preprint-journal-club-9-nov-2017) (Link)
+
+* **Highlights Articles**
+	* [Cell-wall synthesis and ribosome maturation are co-regulated by an RNA switch in  Mycobacterium tuberculosis](highlights/brown.pdf) (PDF)
+	* [False negatives: How to tackle them?](highlights/knight.pdf) (PDF)
+	* [GUT MICROBIOTA COMPOSITION IMPACTS HOST GENE EXPRESSION BY CHANGING CHROMATIN ACCESSIBILITY](mcclintock.pdf) (PDF)
+	* [A “blimp” of time](zhuang.pdf) (PDF)
+	
 
 
 ### Talk/Discussion 6: Post-Scan Discussion
