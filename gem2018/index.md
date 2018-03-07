@@ -35,8 +35,8 @@ Course dates: 5 Mar--9 Mar, 2018
 * **Highlights Articles**
 	* [Cell-wall synthesis and ribosome maturation are co-regulated by an RNA switch in  Mycobacterium tuberculosis](highlights/brown.pdf) (PDF)
 	* [False negatives: How to tackle them?](highlights/knight.pdf) (PDF)
-	* [GUT MICROBIOTA COMPOSITION IMPACTS HOST GENE EXPRESSION BY CHANGING CHROMATIN ACCESSIBILITY](mcclintock.pdf) (PDF)
-	* [A “blimp” of time](zhuang.pdf) (PDF)
+	* [GUT MICROBIOTA COMPOSITION IMPACTS HOST GENE EXPRESSION BY CHANGING CHROMATIN ACCESSIBILITY](highlights/mcclintock.pdf) (PDF)
+	* [A “blimp” of time](highlights/zhuang.pdf) (PDF)
 	
 
 
