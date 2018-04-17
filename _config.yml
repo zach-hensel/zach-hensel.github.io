@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Single Molecule Microbiology
 description: Visualizing individual nucleic acids and proteins in living microbial cells in Zach Hensel's lab at ITQB NOVA
+
+paginate: 5
+paginate_path: "/blog/page:num/"
