@@ -13,11 +13,10 @@ title: Hensel lab blog
       <p>
 
       <div class="entry">
-        {{ post.excerpt }}
-        ...
+        {{ post.content }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading this post</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">view this post on its own page</a>
     </article>
     <p>
   {% endfor %}
