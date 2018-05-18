@@ -8,6 +8,12 @@ Please contact [Zach](mailto:zach.hensel@itqb.unl.pt) if you want to volunteer t
 
 The journal club will review an article and write a review to submit to the [biOverlay journal](https://www.bioverlay.org/post/welcome/).
 
+### 24 May 2018
+
+**[Active degradation of a regulator controls coordination of downstream genes
+](https://www.biorxiv.org/content/early/2018/02/26/272120)**
+Zach Hensel will lead the discussion of this article, summarizing the peer reviews solicited for [biOverlay](https://www.bioverlay.org/post/2018-05-active-degradation-coordination/). What is biOverlay? It's a curated journal of articles (mostly preprints) that the editors of biOverlay think deserve wider attention and/or scrutiny. We solicit peer reviews and publish them alongside our own summary of the paper. This informs the research community about new research, provides feedback to preprint publishers, and potentially provides information that can be useful for journals in selecting articles for publication or substituting for part of the traditional peer review process.
+
 ### 11 Dec 2017
 
 **[Atypical domain communication and domain functions of a Hsp110 chaperone](https://www.biorxiv.org/content/early/2017/11/17/220798)**  
