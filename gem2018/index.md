@@ -32,16 +32,6 @@ Course dates: 5 Mar--9 Mar, 2018
 * [How to write a preprint review](https://www.authorea.com/users/164141/articles/200820-prereview-guidelines-how-to-write-a-preprint-review) (Link)
 * [ITQB Preprint Journal Club Review](https://www.authorea.com/users/172741/articles/210868-itqb-preprint-journal-club-9-nov-2017) (Link)
 
-* **Highlights Articles**
-	* [Cell-wall synthesis and ribosome maturation are co-regulated by an RNA switch in  Mycobacterium tuberculosis](highlights/brown.pdf) (PDF)
-	* [False negatives: How to tackle them?](highlights/knight.pdf) (PDF)
-	* [GUT MICROBIOTA COMPOSITION IMPACTS HOST GENE EXPRESSION BY CHANGING CHROMATIN ACCESSIBILITY](highlights/mcclintock.pdf) (PDF)
-	* [A “blimp” of time](highlights/zhuang.pdf) (PDF)
-	* [Highlight article: Hsf1 phosphorylation generates cell-to-cell variation in Hsp90 levels and promotes phenotypic plasticity](highlights/oshea.pdf) (PDF)
-	* [NR5A2 – What does not differentiate us may hurt us](highlights/ptashne.pdf) (PDF)
-	
-
-
 ### Talk/Discussion 6: Post-Scan Discussion
 
 Cecília Arraiano will give a talk: *Kicking “the BolA” in Bacterial Survival and Virulence*. Check out some of her lab's recent papers on the subject.
