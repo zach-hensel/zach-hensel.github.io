@@ -23,7 +23,7 @@ bioRxiv 215061, 2017.
 **Z Hensel**, TT Marquez-Lago. 
 *Cell-cycle-synchronized, oscillatory expression of a negatively autoregulated gene in E. coli*. 
 arXiv 1506.08596, 2015. 
-[link](https://arxiv.org/abs/1506.08596).
+[Link](https://arxiv.org/abs/1506.08596).
 
 **Z Hensel**, X Weng, AC Lagda, J Xiao. 
 *Transcription-factor-mediated DNA looping probed by high-resolution, single-molecule imaging in live E. coli cells*. 
@@ -67,7 +67,7 @@ ChemBioChem 10, 2009.
 J Xiao, **Z Hensel**. 
 *Co-translational activation of a transcription factor by proteolytic cleavage and methods of use*. 
 US Patent 9,822,392 2017. 
-[link](https://patents.google.com/patent/US9822392B2/en).
+[Link](https://patents.google.com/patent/US9822392B2/en).
 
 **Z Hensel**, X Fang, J Xiao. 
 *Single-molecule imaging of gene regulation in vivo using cotranslational activation by cleavage (CoTrAC)*. 
