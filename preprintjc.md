@@ -8,7 +8,7 @@ Please contact [Zach](mailto:zach.hensel@itqb.unl.pt) if you want to volunteer t
 
 **[Cell boundary confinement sets the size and position of the E. coli chromosome](https://www.biorxiv.org/content/early/2018/06/15/348052)**
 
-Dr. Ambre Jousselin led the discussion of this article, with assistance from [Dr. Manuel Melo](http://www.itqb.unl.pt/labs/multiscale-modeling/).
+Dr. Ambre Jousselin led the discussion of this article, with assistance from [Dr. Manuel Melo](http://www.itqb.unl.pt/labs/multiscale-modeling/). Check out the [preprint review](https://www.prereview.org/users/172741/articles/312262-itqb-preprint-journal-club-3-july-2018)!
 
 ### 24 May 2018
 
