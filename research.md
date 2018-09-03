@@ -10,15 +10,15 @@ Lab members in **bold**
 
 ### Research Articles
 
+X Fang, Q Liu, C Bohrer, **Z Hensel**, W Han, J Wang, J Xiao. 
+*New cell fate potentials and switching kinetics uncovered in a classic bistable genetic switch*. 
+Nat Comms 9, 2018.
+[DOI](https://doi.org/10.1038/s41467-018-05071-1).
+
 **Z Hensel**. 
 *A plasmid-based Escherichia coli gene expression system with cell-to-cell variation below the extrinsic noise limit*. 
 PLOS ONE 12, 2017. 
 [DOI](https://doi.org/10.1371/journal.pone.0187259).
-
-X Fang, Q Liu, C Bohrer, **Z Hensel**, W Han, J Wang, J Xiao. 
-*New cell fate potentials and switching kinetics uncovered in a classic bistable genetic switch*. 
-bioRxiv 215061, 2017. 
-[DOI](https://doi.org/10.1101/215061).
 
 **Z Hensel**, TT Marquez-Lago. 
 *Cell-cycle-synchronized, oscillatory expression of a negatively autoregulated gene in E. coli*. 
@@ -30,7 +30,7 @@ arXiv 1506.08596, 2015.
 PLOS Biology 11, 2013. 
 [DOI](https://doi.org/10.1371/journal.pbio.1001591).
 
-**Z Hensel**, H Feng, B Han, C Hatem, J Wang, J Xiao. 
+**Z Hensel** (equal contribution), H Feng (equal contribution), B Han, C Hatem, J Wang, J Xiao. 
 *Stochastic expression dynamics of a transcription factor revealed by single-molecule noise analysis*. 
 Nature Structural and Molecular Biology 19, 2012. 
 [DOI](https://doi.org/10.1038/nsmb.2336).
@@ -47,7 +47,7 @@ PLOS ONE 5, 2010.
 
 E Barry, **Z Hensel**, Z Dogic, M Shribak, R Oldenbourg. 
 *Entropy-driven formation of a chiral liquid-crystalline phase of helical filaments*. 
-Physical review letters 96, 2006. 
+Physical Review Letters 96, 2006. 
 [DOI](https://doi.org/10.1103/PhysRevLett.96.018305).
 
 ### Reviews/Highlights
@@ -62,6 +62,19 @@ Pflügers Archiv-European Journal of Physiology 465, 2013.
 ChemBioChem 10, 2009. 
 [DOI](https://doi.org/10.1002/cbic.200800824).
 
+### Correspondence
+
+S Sarabipour, EM Wissink, SJ Burgess, **Z Hensel**, H Debat, E Emmott, A Akay, KC Akdemir, B Schwessinger.
+*Preprints are good for science and good for the public*.
+Nature 560, 2018.
+[DOI](https://doi.org/10.1038/d41586-018-06054-4).
+
+S Sarabipour, EM Wissink, SJ Burgess, **Z Hensel**, H Debat, E Emmott, A Akay, KC Akdemir, B Schwessinger.
+*Maintaining confidence in the reporting of scientific outputs*.
+PeerJ Preprints 6, 2018.
+[DOI](https://doi.org/10.7287/peerj.preprints.27098v1)
+
+
 ### Patents/Methods
 
 J Xiao, **Z Hensel**. 
@@ -75,6 +88,11 @@ Journal of Visualized Experiments, 2013.
 [DOI](https://doi.org/10.3791/50042).
 
 ### Published preprints
+
+X Fang, Q Liu, C Bohrer, **Z Hensel**, W Han, J Wang, J Xiao. 
+*New cell fate potentials and switching kinetics uncovered in a classic bistable genetic switch*. 
+bioRxiv 215061, 2017. 
+[DOI](https://doi.org/10.1101/215061).
 
 **Z Hensel**. 
 *A plasmid-based Escherichia coli gene expression system with cell-to-cell variation below the extrinsic noise limit*. 
