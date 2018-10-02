@@ -6,7 +6,8 @@ Please contact [Zach](mailto:zach.hensel@itqb.unl.pt) if you want to volunteer t
 
 ### 21 September 2018
 
-**[A tunable dual-input system for 'on-demand' dynamic gene expression regulation](https://www.biorxiv.org/content/early/2018/09/16/404699)
+**[A tunable dual-input system for 'on-demand' dynamic gene expression regulation](https://www.biorxiv.org/content/early/2018/09/16/404699)**
+
 This article was presented by Dr. Federico Herrera, who was interested in a new technique to manipulate the sorts of cells he works with in a more rapid and tunable way. Check out the [preprint review](https://www.prereview.org/users/172741/articles/326353-itqb-preprint-journal-club-21-september-2018)!
 
 ### 3 July 2018
