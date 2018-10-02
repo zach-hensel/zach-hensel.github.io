@@ -4,6 +4,11 @@ Isn't it frustrating to know that the papers you are reading often describe work
 
 Please contact [Zach](mailto:zach.hensel@itqb.unl.pt) if you want to volunteer to present at the preprint journal club or be added to the mailing list to be notified about future meetings.
 
+### 21 September 2018
+
+**[A tunable dual-input system for 'on-demand' dynamic gene expression regulation](https://www.biorxiv.org/content/early/2018/09/16/404699)
+This article was presented by Dr. Federico Herrera, who was interested in a new technique to manipulate the sorts of cells he works with in a more rapid and tunable way. Check out the [preprint review](https://www.prereview.org/users/172741/articles/326353-itqb-preprint-journal-club-21-september-2018)!
+
 ### 3 July 2018
 
 **[Cell boundary confinement sets the size and position of the E. coli chromosome](https://www.biorxiv.org/content/early/2018/06/15/348052)**
@@ -26,3 +31,5 @@ Zach Hensel led the discussion of this article, summarizing the peer reviews sol
 
 **[Metabolic Interactions Between Dynamic Bacterial Subpopulations](https://www.biorxiv.org/content/early/2017/10/25/208686)**  
 Feedback from the journal club was incorporated into a [preprint review](https://www.prereview.org/users/172741/articles/210868-itqb-preprint-journal-club-9-nov-2017) by Zach Hensel.
+
+*Edit: 29 June 2018* This article was published at eLife [DOI](https://doi.org/10.7554/eLife.33099) having been submitted 25 October 2017.
