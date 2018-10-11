@@ -14,7 +14,7 @@ Check out our most recent paper on a new [low-noise gene expression system](http
 
 We are using this system to develop and improve methods for live-cell mRNA imaging. Browse the [research](research.md) page for details about our other projects.
 
-![live-cell mRNA imaging in E. coli](/img/timelapseRNA.gif){: .blog-image-center }*Imaging single mRNAs in E. coli*{: .blog-image-caption } 
+![live-cell mRNA imaging in E. coli](/img/timelapseRNA.gif){: .blog-image-center-noresize }*Imaging single mRNAs in E. coli*{: .blog-image-caption } 
 
 ## Funding
 
