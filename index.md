@@ -8,13 +8,13 @@ Our lab answers questions in microbial molecular biology, with a methodological 
 
 ## Current work
 
-Check out our most recent paper on a new [low-noise gene expression system](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187259) in E. coli ([plasmids available at AddGene](https://www.addgene.org/Zach_Hensel/)). We developed this to facilitate single-molecule experiments with fluorescent proteins that require very low expression levels with very low cell-to-cell variation. Browse the [research](research.md) page for details about our other projects.
+Check out our most recent paper on a new [low-noise gene expression system](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187259) in E. coli ([plasmids available at AddGene](https://www.addgene.org/Zach_Hensel/)). We developed this to facilitate single-molecule experiments with fluorescent proteins that require very low expression levels with very low cell-to-cell variation.
 
 ![low-noise expression from 100 to 10,000 molecules/cell](/img/lownoise.jpg){: .blog-image-center }*Gene expression from 100 to 10,000 molecules/cell with low cell-to-cell variation*{: .blog-image-caption }  
 
-We are using this system to develop and improve methods for live-cell mRNA imaging.
+We are using this system to develop and improve methods for live-cell mRNA imaging. Browse the [research](research.md) page for details about our other projects.
 
-![live-cell mRNA imaging in E. coli](/img/timelapseRNA.gif){: .blog-image-center }*Imaging single mRNAs in E. coli*{: .blog-image-caption }  
+![live-cell mRNA imaging in E. coli](/img/timelapseRNA.gif){: .blog-image-center }*Imaging single mRNAs in E. coli*{: .blog-image-caption } 
 
 ## Funding
 
