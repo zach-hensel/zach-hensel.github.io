@@ -2,6 +2,8 @@
 
 We focus on single-molecule experiments in living cells using fluorescent proteins and other fluorescent molecules.
 
+We also work on improved methods for recombinant gene expression and have distributed some plasmids that are very useful for low-noise gene expression that can be found at [AddGene](https://www.addgene.org/Zach_Hensel/).
+
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=QwsENLQAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-4348-6229): 0000-0002-4348-6229
@@ -9,6 +11,11 @@ We focus on single-molecule experiments in living cells using fluorescent protei
 Lab members in **bold**
 
 ### Research Articles
+
+**JPN Silva**, **SV Lopes**,  **DJ Grilo**,  **Z Hensel**.
+*Plasmids for independently tunable, low-noise expression of two genes*.
+bioRxiv 515940, 2019.
+[DOI](https://doi.org/10.1101/515940).
 
 X Fang, Q Liu, C Bohrer, **Z Hensel**, W Han, J Wang, J Xiao. 
 *New cell fate potentials and switching kinetics uncovered in a classic bistable genetic switch*. 
@@ -64,7 +71,12 @@ ChemBioChem 10, 2009.
 
 ### Correspondence
 
-S Sarabipour, EM Wissink, SJ Burgess, **Z Hensel**, H Debat, E Emmott, A Akay, KC Akdemir, B Schwessinger.
+S Sarabipour, HJ Debat, E Emmott, SJ Burgess, B Schwessinger, **Z Hensel**.
+*On the value of preprints: an early career researcher perspective*.
+PeerJ Preprints 6, 2018.
+[DOI](https://doi.org/10.7287/peerj.preprints.27400v1).
+
+S Sarabipour, EM Wissink, SJ Burgess, **Z Hensel**, HJ Debat, E Emmott, A Akay, KC Akdemir, B Schwessinger.
 *Preprints are good for science and good for the public*.
 Nature 560, 2018.
 [DOI](https://doi.org/10.1038/d41586-018-06054-4).
@@ -72,7 +84,7 @@ Nature 560, 2018.
 S Sarabipour, EM Wissink, SJ Burgess, **Z Hensel**, H Debat, E Emmott, A Akay, KC Akdemir, B Schwessinger.
 *Maintaining confidence in the reporting of scientific outputs*.
 PeerJ Preprints 6, 2018.
-[DOI](https://doi.org/10.7287/peerj.preprints.27098v1)
+[DOI](https://doi.org/10.7287/peerj.preprints.27098v1).
 
 
 ### Patents/Methods
