@@ -4,13 +4,14 @@ If you are interested in joining the lab, please contact Zach to discuss possibl
 
 ### Zach Hensel (head of lab)
 
-[zach.hensel@itqb.unl.pt](mailto:zach.hensel@itqb.unl.pt)  
+[zach.hensel@itqb.unl.pt](mailto:zach.hensel@itqb.unl.pt)
+Phone (+351) 214-469-724
 [Google Scholar](https://scholar.google.pt/citations?user=QwsENLQAAAAJ&hl=en)  
 [Twitter](https://twitter.com/alchemytoday)
 
 ![Zach](img/zach.jpg){: .image-left } I came to the lab after doing postdoctoral work at the [Okinawa Institute of Science and Technology](https://www.oist.jp/). I've worked on single-protein imaging (mostly using components from bacteriophage λ) since my PhD work with [Jie Xiao](http://xiao.med.jhmi.edu/). Now I am interested in expanding that work to image mRNA and protein at the same time for a single gene (ultimately, for more than one gene), employing these techniques in living biofilms, and investigating molecular mechanisms of gene regulation.
 
-I am an advocate for open research initiatives (especially preprint) through affiliations with interest groups at [ASAPbio](http://asapbio.org/asapbio-ambassadors) and [eLife](https://elifesciences.org/inside-elife/912b0679/early-career-advisory-group-elife-welcomes-150-ambassadors-of-good-practice-in-science). I run the [ITQB preprint journal club](preprintjc).
+I am an advocate for open research initiatives (especially preprint) as an ambassador for interest groups affiliated with [ASAPbio](http://asapbio.org/asapbio-ambassadors) and [eLife](https://elifesciences.org/inside-elife/912b0679/early-career-advisory-group-elife-welcomes-150-ambassadors-of-good-practice-in-science). I run the [ITQB preprint journal club](preprintjc).
 
 ### Sara Costa ([MolBioS](http://www.itqb.unl.pt/education/phd-molecular-bioscience) PhD Student)
 
@@ -26,8 +27,9 @@ Soraia graduated in Biology (Molecular Biology and Genetics) from Faculty of Sci
 
 * João Silva (FCUL, 2018). Thesis: *Engineering low-noise gene expression systems for single-molecule experiments*
 
-### Summer Interns
+### Interns
 
+* Diogo Grilo (FCUL, 2018)
 * João Ferreira (IST, 2017)
 * Pedro Ladino (FCUL, 2017)
 
