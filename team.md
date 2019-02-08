@@ -1,4 +1,4 @@
-If you are interested in joining the lab, please contact Zach to discuss possible projects an funding opportunities.
+If you are interested in joining the lab, please contact Zach to discuss possible projects and funding opportunities.
 
 ## Current team members
 
