@@ -3,7 +3,7 @@
 ### ITQB 
 
 * [ITQB Preprint Journal Club](preprintjc)
-* [Gene Expression Mechanisms and System Biology](/gem2018/): Documents for the 2018 course
+* [Gene Expression Mechanisms and System Biology](/gem2019/): Documents for the 2019 course
 
 ### Open science
 
