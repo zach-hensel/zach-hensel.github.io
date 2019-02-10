@@ -35,4 +35,13 @@ Course dates: 11 Feb--15 Feb, 2019
 
 ### Reading 1: Gene Editing
 
+* [YouTube Announcement](https://www.youtube.com/watch?v=th0vnOmFltc) (Link)
+* [Chinese researcher claims first gene-edited babies (AP)](https://www.apnews.com/4997bb7aa36c45449b488e19ac83e86d) (Link)
+* [Exclusive: Chinese scientists are creating CRISPR babies (MIT Technology Review)](https://www.technologyreview.com/s/612458/exclusive-chinese-scientists-are-creating-crispr-babies/) (Link)
+* [Noted biologist comes to defense of gene editing babies (Science)](http://www.sciencemag.org/news/2018/11/i-feel-obligation-be-balanced-noted-biologist-comes-defense-gene-editing-babies) (Link)
+* [#CRISPRbabies: Notes on a Scandal](https://www.liebertpub.com/doi/10.1089/crispr.2018.29039.spr) (Link)
+* [Human Genome Editing: Science, Ethics, and Governance (Summary, NAS)](papers/gene_editing_summary.pdf) (PDF)
+
 ### Reading 2: Big or small biology?
+
+* [How Academia and Publishing are Destroying Scientific Innovation](http://kingsreview.co.uk/articles/how-academia-and-publishing-are-destroying-scientific-innovation-a-conversation-with-sydney-brenner/) (Link)
