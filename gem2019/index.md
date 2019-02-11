@@ -20,6 +20,10 @@ Course dates: 11 Feb--15 Feb, 2019
 
 * [Francis Crick: On Protein Synthesis](papers/Crick_1958_On protein synthesis.pdf) (PDF)
 
+### Talk 4: Single Molecules
+
+* [An Introduction to Superresolution Microscopy for the Adventurous Biologist](https://iopscience.iop.org/article/10.1088/2050-6120/aaae0c/meta) (Link)
+
 ### Team Project: Preprint Journal Club Assignment
 
 * [How to find preprints](https://docs.google.com/document/d/1VkAe4OwQ_X2m7Yw9rptviw_23QgHf3JzKV60aY4MY3g/edit?usp=sharing) (Google Doc) - [rxivist.org](https://rxivist.org/)
