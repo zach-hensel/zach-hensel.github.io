@@ -24,6 +24,26 @@ Course dates: 11 Feb--15 Feb, 2019
 
 * [An Introduction to Superresolution Microscopy for the Adventurous Biologist](https://iopscience.iop.org/article/10.1088/2050-6120/aaae0c/meta) (Link)
 
+### Talk 5/6: Eukaryotic Gene Regulation & Chromosomes
+
+* [Capturing Chromosome Conformation (Science)](https://doi.org/10.1126/science.1067799) (Link)
+* [Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome](https://doi.org/10.1126/science.1181369) (Link)
+* [The Hitchhiker’s guide to Hi-C analysis: Practical guidelines](https://doi.org/10.1016/j.ymeth.2014.10.031) (Link)
+* [Organization of the Mitotic Chromosome](http://science.sciencemag.org/content/342/6161/948) (Link)
+* [A pathway for mitotic chromosome formation](https://doi.org/10.1126/science.aao6135) (Link)
+* [Topological domains in mammalian genomes identified by analysis of chromatin interactions](https://doi.org/10.1038/nature11082) (Link)
+* [A 3D Map of the Human Genome at Kilobase Resolution Reveals Principles of Chromatin Looping](https://doi.org/10.1016/j.cell.2014.11.021) (Link)
+* [Mapping long-range promoter contacts in human cells with high-resolution capture Hi-C](http://doi.org/10.1038/ng.3286) (Link)
+* [Activation of proto-oncogenes by disruption of chromosome neighborhoods](https://doi.org/10.1126/science.aad9024) (Link)
+* [Targeted Degradation of CTCF Decouples Local Insulation of Chromosome Domains from Genomic Compartmentalization](https://doi.org/10.1016/j.cell.2017.05.004) (Link)
+* [Cohesin Loss Eliminates All Loop Domains](https://doi.org/10.1016/j.cell.2017.09.026) (Link)
+* [The Cohesin Release Factor WAPL Restricts Chromatin Loop Extension](https://doi.org/10.1016/j.cell.2017.04.013) (Link)
+
+### Talk 9: Synthetic Biology & Machine Learning
+
+* [Opportunities and obstacles for deep learning in biology and medicine](https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0387) (Link)
+* [Artificial Intelligence for Microscopy: What You Should Know](https://www.preprints.org/manuscript/201902.0004/v1) (Link)
+
 ### Team Project: Preprint Journal Club Assignment
 
 * [How to find preprints](https://docs.google.com/document/d/1VkAe4OwQ_X2m7Yw9rptviw_23QgHf3JzKV60aY4MY3g/edit?usp=sharing) (Google Doc) - [rxivist.org](https://rxivist.org/)
