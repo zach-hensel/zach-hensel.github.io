@@ -49,3 +49,6 @@ Course dates: 11 Feb--15 Feb, 2019
 ### Reading 2: Big or small biology?
 
 * [How Academia and Publishing are Destroying Scientific Innovation](http://kingsreview.co.uk/articles/how-academia-and-publishing-are-destroying-scientific-innovation-a-conversation-with-sydney-brenner/) (Link)
+* [Big Science vs. Little Science: How Scientific Impact Scales with Funding (PLOS ONE)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065263) (Link)
+* [Big Science; Is It Worth the Price?; Small-Scale Science Feels the Pinch From Big Projects (NY Times)](https://www.nytimes.com/1990/09/04/science/big-science-it-worth-price-small-scale-science-feels-pinch-big-projects.html) (LINK)
+* [Personal Reflections on Big Science, Small Science, or the Right Mix](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4006109/) (Link)
