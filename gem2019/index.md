@@ -52,3 +52,6 @@ Course dates: 11 Feb--15 Feb, 2019
 * [Big Science vs. Little Science: How Scientific Impact Scales with Funding (PLOS ONE)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065263) (Link)
 * [Big Science; Is It Worth the Price?; Small-Scale Science Feels the Pinch From Big Projects (NY Times)](https://www.nytimes.com/1990/09/04/science/big-science-it-worth-price-small-scale-science-feels-pinch-big-projects.html) (LINK)
 * [Personal Reflections on Big Science, Small Science, or the Right Mix](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4006109/) (Link)
+* [The Human Genome Project: big science transforms biology and medicine (Genome Medicine)](https://genomemedicine.biomedcentral.com/articles/10.1186/gm483) (Link)
+* [Introducing the Human Brain Project](https://www.sciencedirect.com/science/article/pii/S1877050911006806) (Link)
+* [1000 Genomes Project Gives New Map of Genetic Diversity](http://science.sciencemag.org/content/330/6004/574) (Link)
