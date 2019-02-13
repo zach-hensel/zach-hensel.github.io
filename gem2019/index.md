@@ -43,6 +43,7 @@ Course dates: 11 Feb--15 Feb, 2019
 
 * [Opportunities and obstacles for deep learning in biology and medicine](https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0387) (Link)
 * [Artificial Intelligence for Microscopy: What You Should Know](https://www.preprints.org/manuscript/201902.0004/v1) (Link)
+* [Using DeepLabCut for 3D markerless pose estimation across species and behaviors](https://www.biorxiv.org/content/10.1101/476531v1) (bioRxiv)
 
 ### Team Project: Preprint Journal Club Assignment
 
