@@ -57,6 +57,11 @@ Course dates: 11 Feb--15 Feb, 2019
 * [How to write a preprint review](https://www.authorea.com/users/164141/articles/200820-prereview-guidelines-how-to-write-a-preprint-review) (Link)
 * [A rubric for evaluating a manuscript](paper_rubric.pdf) (Link)
 * [ITQB Preprint Journal Club Review](https://www.authorea.com/users/172741/articles/210868-itqb-preprint-journal-club-9-nov-2017) (Link)
+* Highlight Articles
+	* [Male or female progeny: now you can choose](highlights/brown.pdf) (PDF)
+	* [HIGHLIGHT PAPER: Gut microbiota has a widespread and modifiable effect on host gene regulation](highlights/mcclintock.pdf) (PDF)
+	* [HIGHLIGHT: Hypoxia induces rapid changes to histone methylation reprogramming chromatin for the cellular response](highlights/oshea.pdf) (PDF)
+	* [HIGHLIGHT: Host-pathogen coevolution increases genetic variation in susceptibility to infection](highlights/zhuang.pdf) (PDF)
 
 ### Reading 1: Gene Editing
 
