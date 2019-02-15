@@ -39,12 +39,17 @@ Course dates: 11 Feb--15 Feb, 2019
 * [Cohesin Loss Eliminates All Loop Domains](https://doi.org/10.1016/j.cell.2017.09.026) (Link)
 * [The Cohesin Release Factor WAPL Restricts Chromatin Loop Extension](https://doi.org/10.1016/j.cell.2017.04.013) (Link)
 
-### Talk 9: Synthetic Biology & Machine Learning
+### Talk 8: Synthetic Biology & Machine Learning
 
 * [Opportunities and obstacles for deep learning in biology and medicine](https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0387) (Link)
 * [Artificial Intelligence for Microscopy: What You Should Know](https://www.preprints.org/manuscript/201902.0004/v1) (Link)
 * [Using DeepLabCut for 3D markerless pose estimation across species and behaviors](https://www.biorxiv.org/content/10.1101/476531v1) (bioRxiv)
 * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) (Link)
+
+### Movies:
+
+* [The Scientist: The Race for the Repressor](https://www.youtube.com/watch?v=kdOgoTl9Fog) (YouTube)
+* [Decoding Watson](https://www.youtube.com/watch?v=vDz9A8QGvz4) (YouTube)
 
 ### Team Project: Preprint Journal Club Assignment
 
