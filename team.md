@@ -17,11 +17,11 @@ I am an advocate for open research initiatives (especially preprint) as an ambas
 
 Sara graduated in Biology (Molecular Biology and Genetics) from Faculty of Sciences, University of Lisbon and then attended a Masters program in Molecular Genetics and Biomedicine at Faculty of Science and Technology at NOVA University Lisbon. Her main scientific interest is to study the role of gene expression regulation in controlling cell division in *Staphylococcus aureus*.
 
-### Soraia Lopes (post-masters research fellow)
-
-Soraia graduated in Biology (Molecular Biology and Genetics) from Faculty of Sciences, University of Lisbon and then attended a Masters program in Biotechnology and Bioengineering at School of Biosciences, University of Kent. Her main scientific interest is to study RNA and protein imaging *in vivo* using different RNA labelling systems in *E. coli*.
-
 ## Alumni
+
+### Research Fellows
+
+* Soraia Lopes (2017–2019). Soraia graduated in Biology (Molecular Biology and Genetics) from Faculty of Sciences, University of Lisbon and then attended a Masters program in Biotechnology and Bioengineering at School of Biosciences, University of Kent. Her main scientific interest is to study RNA and protein imaging *in vivo* using different RNA labelling systems in *E. coli*. She's now working on a project in regenerative medicine approaches to treating ALS.
 
 ### Masters Students
 
