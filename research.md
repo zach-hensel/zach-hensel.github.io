@@ -14,8 +14,8 @@ Lab members in **bold**
 
 **JPN Silva**, **SV Lopes**,  **DJ Grilo**,  **Z Hensel**.
 *Plasmids for independently tunable, low-noise expression of two genes*.
-bioRxiv 515940, 2019.
-[DOI](https://doi.org/10.1101/515940).
+mSphere 4:e00340-19, 2019.
+[DOI](https://doi.org/10.1128/mSphere.00340-19).
 
 X Fang, Q Liu, C Bohrer, **Z Hensel**, W Han, J Wang, J Xiao. 
 *New cell fate potentials and switching kinetics uncovered in a classic bistable genetic switch*. 
@@ -100,6 +100,11 @@ Journal of Visualized Experiments, 2013.
 [DOI](https://doi.org/10.3791/50042).
 
 ### Published preprints
+
+**JPN Silva**, **SV Lopes**,  **DJ Grilo**,  **Z Hensel**.
+*Plasmids for independently tunable, low-noise expression of two genes*.
+bioRxiv 515940, 2019.
+[DOI](https://doi.org/10.1101/515940).
 
 X Fang, Q Liu, C Bohrer, **Z Hensel**, W Han, J Wang, J Xiao. 
 *New cell fate potentials and switching kinetics uncovered in a classic bistable genetic switch*. 
