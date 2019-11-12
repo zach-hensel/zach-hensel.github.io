@@ -1,12 +1,8 @@
 ---
 layout: post
-title: Light up your lab with fluorescent protein LEDs
+title: Teresa Carvalho and Ricardo Quiteres wrap up Masters thesis work
 ---
 
-It's that time of year, so the Single Molecule Microbiology lab (Zach Hensel, Sara Costa and Cleusia Manuel) got together and designed and 3d-printed holiday lights based on the x-ray structure of the GFP variant mTurquoise2.
+Congrats and good luck to Teresa Carvalho and Ricardo Quiteres who submitted their Masters theses in the last two months and will be defending in the next month! Teresa studied how bacterial effectors influence actin filamentation with a combination of *in vitro* and *in vivo* approaches (pictured left) and Ricardo studied intermediate filament defects associated with a neurodegenerative disorder by superresolution microscopy (pictured right).
 
-![String of GFP lights](/img/gfp_light_string.png){: .blog-image-center }
-
-If you want to do the same for your own lab, check out our design and design tips at our [github repository](https://github.com/smmlab/3d-printing/tree/master/mtq2%20lights). For a more practical application of 3d printing, you'll also find new designs that summer student Joana Valério made for a linear stage for positioning our sCMOS camera at [this repository](https://github.com/smmlab/3d-printing/tree/master/prime95b_mount).
-
-![String of GFP lights](/img/v3build_side.png){: .blog-image-center }
+![Teresa and Ricardo thesis work](/img/tc_rq_thesis.png){: .blog-image-center }
