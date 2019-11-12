@@ -17,6 +17,10 @@ I am an advocate for open research initiatives (especially preprint) as an ambas
 
 Sara graduated in Biology (Molecular Biology and Genetics) from Faculty of Sciences, University of Lisbon and then attended a Masters program in Molecular Genetics and Biomedicine at Faculty of Science and Technology at NOVA University Lisbon. Her main scientific interest is to study the role of gene expression regulation in controlling cell division in *Staphylococcus aureus*.
 
+### Cleusia Manuel (post-graduate course)
+
+Cleusia joined the lab in October 2019 and is working on developing and optimizing single-molecule RNA reporters in *E. coli* cells.
+
 ## Alumni
 
 ### Research Fellows
