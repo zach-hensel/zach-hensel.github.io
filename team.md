@@ -29,16 +29,24 @@ Cleusia joined the lab in October 2019 and is working on developing and optimizi
 
 ### Masters Students
 
+* Ricardo Quiteres (FCUL, 2019). Thesis: Developing new molecular tools to study and visualize the
+intermediate filament GFAP in living cells (co-supervised by Federico Herrera)
+
+* Teresa Carvalho (ITQB NOVA, 2019). Thesis: The mechanism of the *Legionella* VipA protein in altering actin dynamics during infection (co-supervised by Irina Franco and Alvaro Crevenna)
+
 * João Silva (FCUL, 2018). Thesis: *Engineering low-noise gene expression systems for single-molecule experiments*
 
 ### Interns
 
+* Inês Mendes (IST, 2019)
+* Joana Valério (IST, 2019)
 * Diogo Grilo (FCUL, 2018)
 * João Ferreira (IST, 2017)
 * Pedro Ladino (FCUL, 2017)
 
 ### Rotation Students
 
+* Catarina Candeias (Host-Microbe Interface, 2019)
 * Adriana Temperão (Host-Microbe Interface, 2018)
 * Leandro Barros (Host-Microbe Interface, 2018)
 * Anaísa Coelho (MolBioS, 2018)
