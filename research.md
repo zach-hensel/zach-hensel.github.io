@@ -24,7 +24,7 @@ Nat Comms 9, 2018.
 
 **Z Hensel**. 
 *A plasmid-based Escherichia coli gene expression system with cell-to-cell variation below the extrinsic noise limit*. 
-PLOS ONE 12, 2017. 
+PLoS ONE 12, 2017. 
 [DOI](https://doi.org/10.1371/journal.pone.0187259).
 
 **Z Hensel**, TT Marquez-Lago. 
@@ -49,7 +49,7 @@ Physical Review E 85, 2012.
 
 G Fu, T Huang, J Buss, C Coltharp, **Z Hensel**, J Xiao. 
 *In vivo structure of the E. coli FtsZ-ring revealed by photoactivated localization microscopy (PALM)*. 
-PLOS ONE 5, 2010. 
+PLoS ONE 5, 2010. 
 [DOI](https://doi.org/10.1371/journal.pone.0012680).
 
 E Barry, **Z Hensel**, Z Dogic, M Shribak, R Oldenbourg. 
@@ -73,8 +73,8 @@ ChemBioChem 10, 2009.
 
 S Sarabipour, HJ Debat, E Emmott, SJ Burgess, B Schwessinger, **Z Hensel**.
 *On the value of preprints: an early career researcher perspective*.
-PeerJ Preprints 6, 2018.
-[DOI](https://doi.org/10.7287/peerj.preprints.27400v1).
+PLoS Biology 17(2): e3000151, 2019.
+[DOI](https://doi.org/10.1371/journal.pbio.3000151).
 
 S Sarabipour, EM Wissink, SJ Burgess, **Z Hensel**, HJ Debat, E Emmott, A Akay, KC Akdemir, B Schwessinger.
 *Preprints are good for science and good for the public*.
@@ -105,6 +105,11 @@ Journal of Visualized Experiments, 2013.
 *Plasmids for independently tunable, low-noise expression of two genes*.
 bioRxiv 515940, 2019.
 [DOI](https://doi.org/10.1101/515940).
+
+S Sarabipour, HJ Debat, E Emmott, SJ Burgess, B Schwessinger, **Z Hensel**.
+*On the value of preprints: an early career researcher perspective*.
+PeerJ Preprints 6, 2018.
+[DOI](https://doi.org/10.7287/peerj.preprints.27400v1).
 
 X Fang, Q Liu, C Bohrer, **Z Hensel**, W Han, J Wang, J Xiao. 
 *New cell fate potentials and switching kinetics uncovered in a classic bistable genetic switch*. 
