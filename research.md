@@ -12,6 +12,11 @@ Lab members in **bold**
 
 ### Research Articles
 
+R Letra-Vilela, **R Quiteres**, F Murtinheira, A Crevenna, **Z Hensel**, F Herrera.
+*New tools for the visualization of glial fibrillary acidic protein in living cells*.
+Experimental Results 1, 2020.
+[DOI](https://doi.org/10.1017/exp.2020.1).
+
 **JPN Silva**, **SV Lopes**,  **DJ Grilo**,  **Z Hensel**.
 *Plasmids for independently tunable, low-noise expression of two genes*.
 mSphere 4:e00340-19, 2019.
