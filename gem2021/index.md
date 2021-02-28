@@ -1,6 +1,6 @@
 ## GEM2021
 
-This is the website for the curricular unit **Gene Expression and Systems Biology**.
+This is the website for the curricular unit **Gene Expression Mechanisms**.
 
 Course dates: 1 March--5 March, 2021
 
