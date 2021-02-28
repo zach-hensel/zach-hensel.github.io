@@ -57,6 +57,7 @@ Course dates: 1 March--5 March, 2021
 
 ### Team Project: Preprint Journal Club Assignment
 
+* [Teams and contact information](teams.md)
 * [How to find preprints](https://docs.google.com/document/d/1VkAe4OwQ_X2m7Yw9rptviw_23QgHf3JzKV60aY4MY3g/edit?usp=sharing) (Google Doc) - [rxivist.org](https://rxivist.org/)
 * How to write a pop science article:
 	* [(The article) The Neuronal Gene Arc Encodes a Repurposed Retrotransposon Gag Protein that Mediates Intercellular RNA Transfer](http://www.cell.com/cell/fulltext/S0092-8674(17)31504-0) Link: https://doi.org/10.1016/j.cell.2017.12.024	
