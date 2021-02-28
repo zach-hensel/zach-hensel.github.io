@@ -9,6 +9,10 @@ Course dates: 1 March--5 March, 2021
 * [Syllabus and Project/Evaluation Guidelines](2021_syllabus.pdf) (PDF)
 * [Calendar](2021_calendar.pdf) (PDF)
 
+### Homework
+
+1. [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0)
+
 ### Resources
 
 * [Systems Biology Lectures (Uri Alon)](https://www.youtube.com/watch?v=Z__BHVFP0Lk) (YouTube)
