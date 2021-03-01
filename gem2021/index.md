@@ -66,6 +66,8 @@ Course dates: 1 March--5 March, 2021
 
 ### Movies:
 
+Notes: "The Scientist" was provided by Cold Spring Harbor Labs library and I wrote subtitles to the best of my ability. The audio is very degraded at points. Some attitudes in the film are extremely outdated and are uncomfortable today. Think about what's similar and what's different about what motivates and frustrates scientists then vs now.
+
 * [The Scientist: The Race for the Repressor](https://www.youtube.com/watch?v=kdOgoTl9Fog) (YouTube)
 * [Decoding Watson](https://drive.google.com/file/d/1XHzd3gqCSx8WOi7KsJkmIhcbCmQgsJkK/view?usp=sharing) (download)
 
