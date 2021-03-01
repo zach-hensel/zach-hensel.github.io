@@ -14,6 +14,7 @@
 * Manuel Nuno Condinho Rodrigues Reis de Carvalho / manuel.condinho@gmail.com
 * Érika Carvalho / edcarvalho@itqb.unl.pt
 * Maria Carolina Costa e Santos Baptista Rodrigues / mcarolinacsr@gmail.com
+* Bárbara Ferreira / barbara.ferreira@itqb.unl.pt
 
 ### Team 3
 
