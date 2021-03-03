@@ -13,6 +13,11 @@ Course dates: 1 March--5 March, 2021
 
 1. [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0)
 
+2. *OPTIONAL* [Stochastic Simulations wiht Tellurium Google colab notebook](https://colab.research.google.com/drive/1KAZ0g7CA-vjWGVQywEavk2AMnPXAb-15#scrollTo=6RYEz5HgKLoW)
+
+* [Tellurium notebooks—An environment for reproducible dynamical modeling in systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021116/)
+* [Reference for writing models using Antimony](https://tellurium.readthedocs.io/en/latest/antimony.html)
+
 ### Team Project: Preprint Journal Club Assignment
 
 * [Teams and contact information](teams.md)
