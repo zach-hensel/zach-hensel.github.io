@@ -6,10 +6,10 @@ Course dates: 1 March--5 March, 2021
 
 ### Highlight articles to read for Friday
 
-* [highlights/team1.pdf](Team 1: Pneumolysin is responsible for differential gene expression and modifications in the epigenetic landscape of primary monocyte derived macrophages)
-* [highlights/team2.pdf](Team 2: LuxT controls specific quorum-sensing-regulated behaviors in Vibrionaceae spp. via repression of qrr1, encoding a small regulatory RNA)
-* [highlights/team3.pdf](Team 3: AGES: An auxin-inducible, GAL4-compatible, gene expression system for Drosophila)
-* [highlights/team4.pdf](Team 4: A programmable pAgo nuclease with universal guide and target specificity from the mesophilic bacterium Kurthia massiliensis)
+* [Team 1: Pneumolysin is responsible for differential gene expression and modifications in the epigenetic landscape of primary monocyte derived macrophages](highlights/team1.pdf)
+* [Team 2: LuxT controls specific quorum-sensing-regulated behaviors in Vibrionaceae spp. via repression of qrr1, encoding a small regulatory RNA](highlights/team2.pdf)
+* [Team 3: AGES: An auxin-inducible, GAL4-compatible, gene expression system for Drosophila](highlights/team3.pdf)
+* [Team 4: A programmable pAgo nuclease with universal guide and target specificity from the mesophilic bacterium Kurthia massiliensis](highlights/team4.pdf)
 
 ### Course Information
 
