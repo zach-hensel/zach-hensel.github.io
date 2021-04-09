@@ -11,7 +11,7 @@ Phone (+351) 214-469-724
 
 ![Zach](img/zach.jpg){: .image-left } I came to the lab after doing postdoctoral work at the [Okinawa Institute of Science and Technology](https://www.oist.jp/). I've worked on single-protein imaging (mostly using components from bacteriophage λ) since my PhD work with [Jie Xiao](http://xiao.med.jhmi.edu/). Now I am interested in expanding that work to image mRNA and protein at the same time for a single gene (ultimately, for more than one gene), employing these techniques in living biofilms, and investigating molecular mechanisms of gene regulation.
 
-I am an advocate for open research initiatives (especially preprint) as an ambassador for interest groups affiliated with [ASAPbio](http://asapbio.org/asapbio-ambassadors) and [eLife](https://elifesciences.org/inside-elife/912b0679/early-career-advisory-group-elife-welcomes-150-ambassadors-of-good-practice-in-science). I run the [ITQB preprint journal club](preprintjc).
+I am an advocate for open research initiatives (especially preprint) as an ambassador for interest groups affiliated with [ASAPbio](http://asapbio.org/asapbio-ambassadors) and previously with [eLife](https://elifesciences.org/inside-elife/912b0679/early-career-advisory-group-elife-welcomes-150-ambassadors-of-good-practice-in-science). Check out the [ITQB preprint journal club](preprintjc).
 
 ### Sara Costa ([MolBioS](http://www.itqb.unl.pt/education/phd-molecular-bioscience) PhD Student)
 
