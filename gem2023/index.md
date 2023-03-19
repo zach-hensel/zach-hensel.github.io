@@ -9,16 +9,17 @@ Course dates: 20 March--24 March, 2023
 * [Syllabus and Project/Evaluation Guidelines](2023_syllabus.pdf) (PDF)
 * [Calendar](2023_calendar.pdf) (PDF)
 
-### Optional exercises
+### Optional exercises and background
 
-1. [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0)
+* [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0)
 
-- [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
-*OPTIONAL* [Stochastic Simulations wiht Tellurium Google colab notebook](https://colab.research.google.com/drive/1KAZ0g7CA-vjWGVQywEavk2AMnPXAb-15#scrollTo=6RYEz5HgKLoW)
+* [Stochastic Simulations wiht Tellurium Google colab notebook](https://colab.research.google.com/drive/1KAZ0g7CA-vjWGVQywEavk2AMnPXAb-15#scrollTo=6RYEz5HgKLoW)
 
-- [Tellurium notebooks—An environment for reproducible dynamical modeling in systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021116/)
-- [Reference for writing models using Antimony](https://tellurium.readthedocs.io/en/latest/antimony.html)
+* [Tellurium notebooks—An environment for reproducible dynamical modeling in systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021116/)
+
+* [Reference for writing models using Antimony](https://tellurium.readthedocs.io/en/latest/antimony.html)
 
 ### Team Projects
 
@@ -35,7 +36,7 @@ Course dates: 20 March--24 March, 2023
 
 #### Team Project 2: Preprint Journal Club Assignment
 
-* [How to find preprints](https://docs.google.com/document/d/1VkAe4OwQ_X2m7Yw9rptviw_23QgHf3JzKV60aY4MY3g/edit?usp=sharing) (Google Doc) - [rxivist.org](https://rxivist.org/)
+* [How to find preprints](https://docs.google.com/document/d/1VkAe4OwQ_X2m7Yw9rptviw_23QgHf3JzKV60aY4MY3g/edit?usp=sharing) (Google Doc)
 * How to write a pop science article:
 	* [(The article) The Neuronal Gene Arc Encodes a Repurposed Retrotransposon Gag Protein that Mediates Intercellular RNA Transfer](http://www.cell.com/cell/fulltext/S0092-8674(17)31504-0) Link: https://doi.org/10.1016/j.cell.2017.12.024	
 	* [(Pop Science, Public) Brain Cells Share Information With Virus—Like Capsules](https://www.theatlantic.com/science/archive/2018/01/brain-cells-can-share-information-using-a-gene-that-came-from-viruses/550403/) (Link)
@@ -53,7 +54,6 @@ Course dates: 20 March--24 March, 2023
 * [Systems Biology Lectures (Uri Alon)](https://www.youtube.com/watch?v=Z__BHVFP0Lk) (YouTube)
 * [Bionumbers](http://bionumbers.hms.harvard.edu/) (Link)
 * [Bionumbers book](http://book.bionumbers.org/) (Link)
-* [Biophysics: Searching For Principles (book)](https://sites.google.com/site/biophysicsbook/) (Link)
 
 ### Talk 1: Introduction
 
