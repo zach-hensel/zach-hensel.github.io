@@ -45,9 +45,16 @@ Course dates: 20 March--24 March, 2023
 	* [Scientific writing tips from Celia Elliott (UIUC)](https://physics.illinois.edu/people/directory/profile/cmelliot) (Link; scroll down)
 * [How to write a preprint review](https://www.authorea.com/users/164141/articles/200820-prereview-guidelines-how-to-write-a-preprint-review) (Link)
 * [A rubric for evaluating a manuscript](paper_rubric.pdf) (Link)
-* [ITQB Preprint Journal Club Review](https://www.authorea.com/users/172741/articles/210868-itqb-preprint-journal-club-9-nov-2017) (Link
+* [ITQB Preprint Journal Club Review](https://www.authorea.com/users/172741/articles/210868-itqb-preprint-journal-club-9-nov-2017) (Link)
 
-#### Team Project 3: To be updated
+#### Team Project 3
+* Install a program to view protein structures
+	* [ChimeraX -- easier to install] (https://www.cgl.ucsf.edu/chimerax/download.html)
+	* [Pymol -- easier to user] (https://pymol.org/edu/)
+	* [Pymol open source -- possibly difficult to install] (https://anaconda.org/conda-forge/pymol-open-source)
+* [Modified ColabFold notebook] (https://colab.research.google.com/drive/16EKofRtp_YEh2zwEbAfRgLTcbh8q0HC7?usp=sharing)
+	* [ColabFold github repository] (https://github.com/sokrypton/ColabFold)
+	* Color by pLDDT in ColabFold with the command "spectrum b, red_yellow_green_cyan_blue, minimum=50, maximum=90"
 
 ### Resources
 
@@ -91,3 +98,12 @@ Notes: "The Scientist" was provided by Cold Spring Harbor Labs library and I wro
 
 * [The Scientist: The Race for the Repressor](https://www.youtube.com/watch?v=kdOgoTl9Fog) (YouTube)
 * [Decoding Watson](https://drive.google.com/file/d/1XHzd3gqCSx8WOi7KsJkmIhcbCmQgsJkK/view?usp=sharing) (download)
+
+### Reading: Gene Editing
+
+* [YouTube Announcement](https://www.youtube.com/watch?v=th0vnOmFltc) (Link)
+* [Chinese researcher claims first gene-edited babies (AP)](https://www.apnews.com/4997bb7aa36c45449b488e19ac83e86d) (Link)
+* [Exclusive: Chinese scientists are creating CRISPR babies (MIT Technology Review)](https://www.technologyreview.com/s/612458/exclusive-chinese-scientists-are-creating-crispr-babies/) (Link)
+* [Noted biologist comes to defense of gene editing babies (Science)](http://www.sciencemag.org/news/2018/11/i-feel-obligation-be-balanced-noted-biologist-comes-defense-gene-editing-babies) (Link)
+* [#CRISPRbabies: Notes on a Scandal](https://www.liebertpub.com/doi/10.1089/crispr.2018.29039.spr) (Link)
+* [Human Genome Editing: Science, Ethics, and Governance (Summary, NAS)](papers/gene_editing_summary.pdf) (PDF)
