@@ -4,6 +4,9 @@ This is the website for the curricular unit **Gene Expression Mechanisms**.
 
 Course dates: 20 March--24 March, 2023
 
+### Project proposal evaluations
+[Please fill out the form at this link and mail it to me](https://docs.google.com/spreadsheets/d/1a1BWC440SxSYPmQFdevmWQ3nNuTdFGoBCy2SVkwwkqg/edit?usp=sharing)
+
 ### Course information
 
 * [Syllabus and Project/Evaluation Guidelines](2023_syllabus.pdf) (PDF)
