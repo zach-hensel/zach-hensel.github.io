@@ -4,9 +4,7 @@ If you are interested in joining the lab, please contact Zach to discuss possibl
 
 ### Zach Hensel (head of lab)
 
-[zach.hensel@itqb.unl.pt](mailto:zach.hensel@itqb.unl.pt)
-Phone (+351) 214-469-724
-[Google Scholar](https://scholar.google.pt/citations?user=QwsENLQAAAAJ&hl=en) 
+[zach.hensel@itqb.unl.pt](mailto:zach.hensel@itqb.unl.pt) | Phone (+351) 214-469-724 | [Google Scholar](https://scholar.google.pt/citations?user=QwsENLQAAAAJ&hl=en) 
 
 ![Zach](img/zach.jpg){: .image-left } I came to the lab after doing postdoctoral work at the [Okinawa Institute of Science and Technology](https://www.oist.jp/). I've worked on single-protein imaging (mostly using components from bacteriophage λ) since my PhD work with [Jie Xiao](http://xiao.med.jhmi.edu/). Now I am interested in expanding that work to image mRNA and protein at the same time for a single gene (ultimately, for more than one gene), employing these techniques in living biofilms, and investigating molecular mechanisms of gene regulation.
 
