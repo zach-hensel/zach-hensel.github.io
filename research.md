@@ -4,13 +4,29 @@ We focus on single-molecule experiments in living cells using fluorescent protei
 
 We also work on improved methods for recombinant gene expression and have distributed some plasmids that are very useful for low-noise gene expression that can be found at [AddGene](https://www.addgene.org/Zach_Hensel/).
 
-## Publications
+## Publications from lab members
 
 [Google Scholar](https://scholar.google.com/citations?user=QwsENLQAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-4348-6229): 0000-0002-4348-6229
 
 Lab members in **bold**
 
-### Research Articles
+### Research manuscripts (including unreviewed preprints)
+† Equal contribution
+
+†BM Britton, †RA Yovanno, **SF Costa**,  J McCausland,  AY Lau,  J Xiao, **Z Hensel**.
+*Conformational changes in the essential E. coli septal cell wall synthesis complex suggest an activation mechanism*.
+Nature Communications 14, 2023.
+[DOI: 10.1038/s41467-023-39921-4](https://doi.org/10.1038/s41467-023-39921-4)
+
+S Schäper, AD Brito, BM Saraiva, GR Squyres, MJ Holmes, EC Garner, **Z Hensel**, R Henriques, MG Pinho.
+*Processive movement of Staphylococcus aureus essential septal peptidoglycan synthases is independent of FtsZ treadmilling and drives cell constriction*.
+bioRxiv 2023.06.29.547026, 2023
+[DOI: 10.1101/2023.06.29.547026](https://doi.org/10.1101/2023.06.29.547026)
+
+**Z Hensel**
+*Predicted binding interface between coronavirus nsp3 and nsp4*.
+bioRxiv 483145, 2022
+[DOI: 10.1101/2022.03.05.483145](https://doi.org/10.1101/2022.03.05.483145)
 
 R Letra-Vilela, **R Quiteres**, F Murtinheira, A Crevenna, **Z Hensel**, F Herrera.
 *New tools for the visualization of glial fibrillary acidic protein in living cells*.
@@ -24,7 +40,7 @@ mSphere 4:e00340-19, 2019.
 
 X Fang, Q Liu, C Bohrer, **Z Hensel**, W Han, J Wang, J Xiao. 
 *New cell fate potentials and switching kinetics uncovered in a classic bistable genetic switch*. 
-Nat Comms 9, 2018.
+Nature Communications 9, 2018.
 [DOI](https://doi.org/10.1038/s41467-018-05071-1).
 
 **Z Hensel**. 
@@ -42,7 +58,7 @@ arXiv 1506.08596, 2015.
 PLOS Biology 11, 2013. 
 [DOI](https://doi.org/10.1371/journal.pbio.1001591).
 
-**Z Hensel** (equal contribution), H Feng (equal contribution), B Han, C Hatem, J Wang, J Xiao. 
+†**Z Hensel**, †H Feng (equal contribution), B Han, C Hatem, J Wang, J Xiao. 
 *Stochastic expression dynamics of a transcription factor revealed by single-molecule noise analysis*. 
 Nature Structural and Molecular Biology 19, 2012. 
 [DOI](https://doi.org/10.1038/nsmb.2336).
@@ -105,6 +121,11 @@ Journal of Visualized Experiments, 2013.
 [DOI](https://doi.org/10.3791/50042).
 
 ### Published preprints
+
+†BM Britton, †RA Yovanno, **SF Costa**,  J McCausland,  AY Lau,  J Xiao, **Z Hensel**.
+*Conformational changes in the essential E. coli septal cell wall synthesis complex suggest an activation mechanism*.
+bioRxiv 2022.11.27.518129v1, 2022
+[DOI: 10.1101/2022.11.27.518129v1](https://doi.org/10.1101/2022.11.27.518129v1)
 
 **JPN Silva**, **SV Lopes**,  **DJ Grilo**,  **Z Hensel**.
 *Plasmids for independently tunable, low-noise expression of two genes*.
