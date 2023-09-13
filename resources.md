@@ -3,7 +3,6 @@
 ### ITQB 
 
 * [ITQB Preprint Journal Club](preprintjc)
-* [Gene Expression Mechanisms and System Biology](/gem2019/): Documents for the 2019 course
 
 ### Open science
 
@@ -27,6 +26,5 @@
 
 ### Random
 
-* [GitHub repository for this page](https://github.com/zach-hensel/zach-hensel.github.io): Clone to make your own lab site.
-* [New PI Slack](https://newpislack.wordpress.com/): An amazing community of early career PIs
+* [GitHub repository for this page](https://github.com/zach-hensel/zach-hensel.github.io): Clone to make your own lab site
 
