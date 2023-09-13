@@ -8,7 +8,10 @@ Our lab answers questions in microbial molecular biology, with a focus on single
 
 ## Current work
 
-Check out our most recent paper on a new [low-noise gene expression system](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187259) in E. coli ([plasmids available at AddGene](https://www.addgene.org/Zach_Hensel/)). We developed this to facilitate single-molecule experiments with fluorescent proteins that require very low expression levels with very low cell-to-cell variation.
+Check out our most recent work on [a protein complex essential for remodelling the *E. coli* cell wall](https://www.nature.com/articles/s41467-023-39921-4) every cell time the cell divides. In collaboration with [Jie Xiao's lab](https://xiao.med.jhmi.edu/) and [Albert Lau's lab](https://lau.med.jhmi.edu/), we investigated the structure and dynamics of this "divisome" to examine how variations at key protein-protein interfaces could impact essential enzymatic activities. Now, we are applying insights from this method to look at how cell division can respond to environmental changes.
+![molecular dynamics of the divisome complex](/img/divisome.gif){: .blog-image-center-noresize }*Dynamics of the bacterial divisome*{: .blog-image-caption }
+
+Also see our [low-noise gene expression system](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187259) in *E. coli* ([plasmids available at AddGene](https://www.addgene.org/Zach_Hensel/)). We developed this to facilitate single-molecule experiments with fluorescent proteins that require very low expression levels with very low cell-to-cell variation. In João Silva's thesis work, we subsequently extended this for [independent tuning of low-noise expression of two proteins from two plasmids](https://journals.asm.org/doi/full/10.1128/msphere.00340-19).
 
 ![low-noise expression from 100 to 10,000 molecules/cell](/img/lownoise.jpg){: .blog-image-center }*Gene expression from 100 to 10,000 molecules/cell with low cell-to-cell variation*{: .blog-image-caption }  
 
@@ -20,8 +23,4 @@ We are using this system to develop and improve methods for live-cell mRNA imagi
 
 ## Funding
 
-Our work is financially supported by: Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular) funded by FEDER funds through COMPETE2020 - Programa Operacional Competitividade e Internacionalização (POCI), by national funds through FCT - Fundação para a Ciência e a Tecnologia.
-
-
-
-
+Our work is financially supported by the Fundação para a Ciência e a Tecnologia (FCT) through MOSTMICRO-ITQB (UIDB/04612/2020, UIDP/04612/2020) and LS4FUTURE (LA/P/0087/2020).
