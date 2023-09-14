@@ -18,7 +18,7 @@ Sara graduated in Biology (Molecular Biology and Genetics) from Faculty of Scien
 
 ### Masters Students
 
-* João Ferreira (Instituto Superior Técnico, Biological Engineering, 2022): Thesis: *Characterization on the protein-protein interactions of M. tuberculosis divisome proteins, expressed in E. coli*
+* João Ferreira (Instituto Superior Técnico, Biological Engineering, 2022). Thesis: *Characterization on the protein-protein interactions of M. tuberculosis divisome proteins, expressed in E. coli*
 
 * Maria Inês Sousa ([University of Aveiro Masters in Biotechnology](https://www.ua.pt/pt/curso/187), 2021). Thesis: *Improved Techniques for Single-Molecule mRNA Detection and Tracking in Living E. coli Cells*
 
