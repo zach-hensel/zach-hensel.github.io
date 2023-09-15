@@ -9,9 +9,9 @@ We also work on improved methods for recombinant gene expression and have distri
 [Google Scholar](https://scholar.google.com/citations?user=QwsENLQAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-4348-6229): 0000-0002-4348-6229
 
 Lab members in **bold**\
-† Equal contribution
-\# Preprint not published elsewhere
-\* Corresponding author
+† Equal contribution\
+\# Preprint not published elsewhere\
+\* Corresponding author\
 
 ### Research manuscripts (including preprints not published elsewhere)
 
@@ -35,7 +35,7 @@ bioRxiv 2023.06.29.547026, 2023
 bioRxiv 483145, 2022
 [DOI: 10.1101/2022.03.05.483145](https://doi.org/10.1101/2022.03.05.483145)
 
-†R Letra-Vilela, †**R Quiteres**, F Murtinheira, A Crevenna, \***Z Hensel**, \*F Herrera.
+†R Letra-Vilela, †**R Quiteres**, F Murtinheira, A Crevenna, **Z Hensel**\*, F Herrera\*.
 *New tools for the visualization of glial fibrillary acidic protein in living cells*.
 Experimental Results 1, 2020.
 [DOI: 10.1017/exp.2020.1](https://doi.org/10.1017/exp.2020.1).
