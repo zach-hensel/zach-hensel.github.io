@@ -6,17 +6,22 @@ If you are interested in joining the lab, please contact Zach to discuss possibl
 
 [zach.hensel@itqb.unl.pt](mailto:zach.hensel@itqb.unl.pt) | Phone (+351) 214-469-724 | [Google Scholar](https://scholar.google.pt/citations?user=QwsENLQAAAAJ&hl=en) 
 
-![Zach](img/zach.jpg){: .image-left } I came to the lab after doing postdoctoral work at the [Okinawa Institute of Science and Technology](https://www.oist.jp/). I've worked on single-protein imaging (mostly using components from bacteriophage λ) since my PhD work with [Jie Xiao](http://xiao.med.jhmi.edu/). Now I am interested in expanding that work to image mRNA and protein at the same time for a single gene (ultimately, for more than one gene), employing these techniques in living biofilms, and investigating molecular mechanisms of gene regulation.
+![Zach](img/zach.jpg){: .image-left } I came to the lab after doing postdoctoral work at the [Okinawa Institute of Science and Technology](https://www.oist.jp/). I've worked on single-protein imaging (mostly using components from bacteriophage λ) since my PhD work with [Jie Xiao](http://xiao.med.jhmi.edu/). Now I am interested in expanding that work to image mRNA and protein at the same time for a single gene (ultimately, for more than one gene), employing these techniques in living biofilms, and investigating molecular mechanisms of gene regulation. A more recent interest is to combine advances in the prediction of the structure of proteins and complexes of proteins with fluorescence microscopy experiments to try to piece together puzzles in regulation of microbial cell biology such as the response to the host-cell environment.
 
 I advocated for open research initiatives (especially preprint) with [ASAPbio](http://asapbio.org/asapbio-ambassadors) and previously with [eLife](https://elifesciences.org/inside-elife/912b0679/early-career-advisory-group-elife-welcomes-150-ambassadors-of-good-practice-in-science). Check out the [ITQB preprint journal club](preprintjc).
 
-### Sara Costa ([MolBioS](http://www.itqb.unl.pt/education/phd-molecular-bioscience) PhD Student)
+### Ruilan Xu (post-Masters research fellowship)
 
-Sara graduated in Biology (Molecular Biology and Genetics) from Faculty of Sciences, University of Lisbon and then attended a Masters program in Molecular Genetics and Biomedicine at Faculty of Science and Technology at NOVA University Lisbon. Her main scientific interest is to study the role of gene expression regulation in controlling cell division in *Staphylococcus aureus*.
+FILL IN bio here.
 
 ## Alumni
 
-### Masters Students
+### PhD students
+
+* Sara Costa (ITQB NOVA, [MolBioS](http://www.itqb.unl.pt/education/phd-molecular-bioscience), 2023). Thesis: *New approaches to study Staphlococcus aureus elongation and division*.\
+Sara graduated in Biology (Molecular Biology and Genetics) from Faculty of Sciences, University of Lisbon and then attended a Masters program in Molecular Genetics and Biomedicine at Faculty of Science and Technology at NOVA University Lisbon. Her main scientific interest is to study the role of gene expression regulation in controlling cell division in *Staphylococcus aureus*.
+
+### Masters students
 
 * João Ferreira (Instituto Superior Técnico, Biological Engineering, 2022). Thesis: *Characterization on the protein-protein interactions of M. tuberculosis divisome proteins, expressed in E. coli*
 
