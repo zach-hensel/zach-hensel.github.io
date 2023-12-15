@@ -10,34 +10,36 @@ If you are interested in joining the lab, please contact Zach to discuss possibl
 
 I advocated for open research initiatives (especially preprint) with [ASAPbio](http://asapbio.org/asapbio-ambassadors) and previously with [eLife](https://elifesciences.org/inside-elife/912b0679/early-career-advisory-group-elife-welcomes-150-ambassadors-of-good-practice-in-science). Check out the [ITQB preprint journal club](preprintjc).
 
-### Ruilan Xu (post-Masters research fellowship)
+### Ruilan Xu, MSc (post-Masters research fellowship)
 
-FILL IN bio here.
+Ruilan studied biology at [Jinan University](https://english.jnu.edu.cn/) in China, where she says that she became fascinated with exploring the microbial world, leading her to complete Master's thesis in microbiology at Stockholm University in Sweden. Ruilan's current research interest is the study of infectious pathogens, such as *Mycobacterium tuberculosis*. In her fellowship, she is expanding her expertise in microscopy methods to study protein-protein interactions with single-molecule tracking, and she also brings her experience in mycobacterial cell culture to the lab.
+
+During her spare time, Ruilan enjoys visiting museums to learn more about cultures around the world or about specific subjects such as toy, chocolate, or game museums. Additionally, she likes singing and dancing, and says, "music serves as the perfect remedy for weariness in my life."
 
 ## Alumni
 
 ### PhD students
 
-* Sara Costa (ITQB NOVA, [MolBioS](http://www.itqb.unl.pt/education/phd-molecular-bioscience), 2023). Thesis: *New approaches to study Staphlococcus aureus elongation and division*.\
+* Sara Costa, PhD (ITQB NOVA, [MolBioS](http://www.itqb.unl.pt/education/phd-molecular-bioscience), 2023). Thesis: *New approaches to study Staphlococcus aureus elongation and division*.\
 Sara graduated in Biology (Molecular Biology and Genetics) from Faculty of Sciences, University of Lisbon and then attended a Masters program in Molecular Genetics and Biomedicine at Faculty of Science and Technology at NOVA University Lisbon. Her main scientific interest is to study the role of gene expression regulation in controlling cell division in *Staphylococcus aureus*.
 
 ### Masters students
 
-* João Ferreira (Instituto Superior Técnico, Biological Engineering, 2022). Thesis: *Characterization on the protein-protein interactions of M. tuberculosis divisome proteins, expressed in E. coli*
+* João Ferreira, MSc (Instituto Superior Técnico, Biological Engineering, 2022). Thesis: *Characterization on the protein-protein interactions of M. tuberculosis divisome proteins, expressed in E. coli*
 
-* Maria Inês Sousa ([University of Aveiro Masters in Biotechnology](https://www.ua.pt/pt/curso/187), 2021). Thesis: *Improved Techniques for Single-Molecule mRNA Detection and Tracking in Living E. coli Cells*
+* Maria Inês Sousa, MSc ([University of Aveiro Masters in Biotechnology](https://www.ua.pt/pt/curso/187), 2021). Thesis: *Improved Techniques for Single-Molecule mRNA Detection and Tracking in Living E. coli Cells*
 
-* Ricardo Quiteres (FCUL, 2019). Thesis: *Developing new molecular tools to study and visualize the intermediate filament GFAP in living cells* (co-supervised by Federico Herrera)
+* Ricardo Quiteres, MSc (FCUL, 2019). Thesis: *Developing new molecular tools to study and visualize the intermediate filament GFAP in living cells* (co-supervised by Federico Herrera)
 
-* Teresa Carvalho (ITQB NOVA, 2019). Thesis: *The mechanism of the Legionella VipA protein in altering actin dynamics during infection* (co-supervised by Irina Franco and Alvaro Crevenna)
+* Teresa Carvalho, MSc (ITQB NOVA, 2019). Thesis: *The mechanism of the Legionella VipA protein in altering actin dynamics during infection* (co-supervised by Irina Franco and Alvaro Crevenna)
 
-* João Silva (FCUL, 2018). Thesis: *Engineering low-noise gene expression systems for single-molecule experiments*
+* João Silva, MSc (FCUL, 2018). Thesis: *Engineering low-noise gene expression systems for single-molecule experiments*
 
 ### Research fellows and students from post-graduate courses
 
-* Soraia Lopes (2017–2019). Soraia graduated in Biology (Molecular Biology and Genetics) from Faculty of Sciences, University of Lisbon and then attended a Masters program in Biotechnology and Bioengineering at School of Biosciences, University of Kent. In our lab, she worked on developing tools for RNA and protein imaging in *E. coli*.
+* Soraia Lopes, MSc (2017–2019). Soraia graduated in Biology (Molecular Biology and Genetics) from Faculty of Sciences, University of Lisbon and then attended a Masters program in Biotechnology and Bioengineering at School of Biosciences, University of Kent. In our lab, she worked on developing tools for RNA and protein imaging in *E. coli*.
 
-* Cleusia Manuel (2019-2020). Cleusia studied RNA imaging methods in *E. coli* and helped identify how addressing aggregation by fluorescent proteins can improve RNA imaging, which was developed in the Masters project of Maria Inês Sousa.
+* Cleusia Manuel, MSc (2019-2020). Cleusia studied RNA imaging methods in *E. coli* and helped identify how addressing aggregation by fluorescent proteins can improve RNA imaging, which was developed in the Masters project of Maria Inês Sousa.
 
 ### Interns, undergraduate projects, and summer researchers
 
