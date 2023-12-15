@@ -15,6 +15,11 @@ Lab members in **bold**\
 
 ### Research manuscripts (including preprints not published elsewhere)
 
+L Zimmermann, X Zhao, J Makroczyova, M Wachsmuth-Melm, V Prasad, **Z Hensel**,  R Bartenschlager, P Chlanda\*.
+*SARS-CoV-2 nsp3 and nsp4 are minimal constituents of a pore spanning replication organelle*. 
+Nature Communications 14, 2023.
+[DOI: 10.1038/s41467-023-43666-5](https://doi.org/10.1038/s41467-023-43666-5)
+
 \# A Crits-Christoph, JI Levy, JE Pekar, SA Goldstein, R Singh, **Z Hensel**, K Gangavarapu, MB Rogers, N Moshiri, RF Garry, EC Holmes, MPG Koopmans, P Lemey, S Popescu, A Rambaut, DL Robertson, MA Suchard, JO Wertheim, AL Rasmussen, KG Andersen\*, M Worobey\*, F Débarre\*.
 *Genetic tracing of market wildlife and viruses at the epicenter of the COVID-19 pandemic*.
 bioRxiv 2023.09.13.557637, 2023
