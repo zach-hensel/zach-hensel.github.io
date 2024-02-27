@@ -201,8 +201,4 @@ span {
      color:blue;
      text-decoration:underline;
 }
-span:hover {
-     text-decoration:none;
-     text-shadow: 1px 1px 1px #555;
-}
 </style>
