@@ -80,77 +80,55 @@ Click titles to **expand abstracts** and see data/analysis from our lab for pape
 
 </details>
 
-<ul>
-<li markdown="1">
 †R Letra-Vilela, †**R Quiteres**, F Murtinheira, A Crevenna, **Z Hensel**\*, F Herrera\*.
 *New tools for the visualization of glial fibrillary acidic protein in living cells*.
 Experimental Results 1, 2020.
 [DOI: 10.1017/exp.2020.1](https://doi.org/10.1017/exp.2020.1).
-</li>
 
-<li markdown="1">
 **JPN Silva**, **SV Lopes**,  **DJ Grilo**,  **Z Hensel**\*.
 *Plasmids for independently tunable, low-noise expression of two genes*.
 mSphere 4:e00340-19, 2019.
 [DOI: 10.1128/mSphere.00340-19](https://doi.org/10.1128/mSphere.00340-19).
-</li>
 
-<li markdown="1">
 X Fang, Q Liu, C Bohrer, **Z Hensel**, W Han, J Wang, J Xiao\*.
 *New cell fate potentials and switching kinetics uncovered in a classic bistable genetic switch*.
 Nature Communications 9, 2018.
 [DOI: 10.1038/s41467-018-05071-1](https://doi.org/10.1038/s41467-018-05071-1).
-</li>
 
-<li markdown="1">
 **Z Hensel**\*.
 *A plasmid-based Escherichia coli gene expression system with cell-to-cell variation below the extrinsic noise limit*.
 PLoS ONE 12, 2017.
 [DOI: 10.1371/journal.pone.0187259](https://doi.org/10.1371/journal.pone.0187259).
-</li>
 
-<li markdown="1">
 **Z Hensel**, TT Marquez-Lago.
 *Cell-cycle-synchronized, oscillatory expression of a negatively autoregulated gene in E. coli*.
 arXiv 1506.08596, 2015.
 [Link](https://arxiv.org/abs/1506.08596).
-</li>
 
-<li markdown="1">
 **Z Hensel**, X Weng, AC Lagda, J Xiao\*.
 *Transcription-factor-mediated DNA looping probed by high-resolution, single-molecule imaging in live E. coli cells*.
 PLOS Biology 11, 2013.
 [DOI: 10.1371/journal.pbio.1001591](https://doi.org/10.1371/journal.pbio.1001591).
-</li>
 
-<li markdown="1">
 †**Z Hensel**, †H Feng (equal contribution), B Han, C Hatem, J Wang, J Xiao\*.
 *Stochastic expression dynamics of a transcription factor revealed by single-molecule noise analysis*.
 Nature Structural and Molecular Biology 19, 2012.
 [DOI: 10.1038/nsmb.2336](https://doi.org/10.1038/nsmb.2336).
-</li>
 
-<li markdown="1">
 H Feng, **Z Hensel**, J Xiao, J Wang\*.
 *Analytical calculation of protein production distributions in models of clustered protein expression*.
 Physical Review E 85, 2012.
 [DOI: 10.1103/PhysRevE.85.031904](https://doi.org/10.1103/PhysRevE.85.031904).
-</li>
 
-<li markdown="1">
 G Fu, T Huang, J Buss, C Coltharp, **Z Hensel**, J Xiao\*.
 *In vivo structure of the E. coli FtsZ-ring revealed by photoactivated localization microscopy (PALM)*.
 PLoS ONE 5, 2010.
 [DOI: 10.1371/journal.pone.0012680](https://doi.org/10.1371/journal.pone.0012680).
-</li>
 
-<li markdown="1">
 E Barry, **Z Hensel**, Z Dogic, M Shribak, R Oldenbourg.
 *Entropy-driven formation of a chiral liquid-crystalline phase of helical filaments*.
 Physical Review Letters 96, 2006.
 [DOI: 10.1103/PhysRevLett.96.018305](https://doi.org/10.1103/PhysRevLett.96.018305).
-</li>
-</ul>
 
 ### Reviews/Highlights
 
