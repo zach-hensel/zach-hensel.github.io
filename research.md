@@ -205,12 +205,12 @@ arXiv cond-mat/0510708, 2005.
 
 <style>
 span {
-     cursor:pointer;
-     color:blue;
-     text-decoration:underline;
+     font-weight: bold;
 }
+
 details > summary {
     list-style-type: none;
+    cursor:pointer;
 }
 
 details > summary::-webkit-details-marker {
