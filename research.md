@@ -15,7 +15,7 @@ Lab members in **bold**\
 
 ### Research manuscripts (including preprints not published elsewhere)
 
-Click titles to **expand abstracts** and see data/analysis from our lab!
+Click titles to **expand abstracts** and see data/analysis from our lab for papers since 2022!
 
 <ul markdown="1">
 <li markdown="1">
@@ -71,9 +71,9 @@ Click titles to **expand abstracts** and see data/analysis from our lab!
 **Abstract**: The bacterial divisome is a macromolecular machine composed of more than 30 proteins that controls cell wall constriction during division. Here, we present a model of the structure and dynamics of the core complex of the *E. coli* divisome, supported by a combination of structure prediction, molecular dynamics simulation, single-molecule imaging, and mutagenesis. We focus on the septal cell wall synthase complex formed by FtsW and FtsI, and its regulators FtsQ, FtsL, FtsB, and FtsN. The results indicate extensive interactions in four regions in the periplasmic domains of the complex. FtsQ, FtsL, and FtsB support FtsI in an extended conformation, with the FtsI transpeptidase domain lifted away from the membrane through interactions among the C-terminal domains. FtsN binds between FtsI and FtsL in a region rich in residues with superfission (activating) and dominant negative (inhibitory) mutations. Mutagenesis experiments and simulations suggest that the essential domain of FtsN links FtsI and FtsL together, potentially modulating interactions between the anchor-loop of FtsI and the putative catalytic cavity of FtsW, thus suggesting a mechanism of how FtsN activates the cell wall synthesis activities of FtsW and FtsI.
 
 </details>
-</li><br>
+</li></ul>>
 
-<li markdown="1">
+
 <details markdown="1">
 <summary># S Schäper, AD Brito, BM Saraiva, GR Squyres, MJ Holmes, EC Garner, <b>Z Hensel</b>, R Henriques, *MG Pinho. <span>Processive movement of <i>Staphylococcus aureus</i> essential septal peptidoglycan synthases is independent of FtsZ treadmilling and drives cell constriction</span>. bioRxiv 547026, 2023. <a href="https://doi.org/10.1101/2023.06.29.547026">https://doi.org/10.1101/2023.06.29.547026</a></summary>
 
@@ -82,9 +82,7 @@ Click titles to **expand abstracts** and see data/analysis from our lab!
 **Abstract**: Bacterial cell division is mediated by the tubulin-homolog FtsZ, which recruits peptidoglycan (PG) synthesis enzymes to the division site. Septal PG synthases promote inward growth of the division septum, but the mechanisms governing the spatiotemporal regulation of these enzymes are poorly understood. Recent studies on various organisms have proposed different models for the relationship between the movement and activity of septum-specific PG synthases and FtsZ treadmilling. Here, we studied the movement dynamics of conserved cell division proteins relative to the rates of septum constriction and FtsZ treadmilling in the Gram-positive pathogen *Staphylococcus aureus*. The septal PG synthesis enzyme complex FtsW/PBP1 and its putative activator protein, DivIB, moved processively, around the division site, with the same velocity. Impairing FtsZ treadmilling did not affect FtsW and DivIB velocities or septum constriction rates. Contrarily, inhibition of PG synthesis slowed down or completely stopped both septum constriction and the directional movement of FtsW/PBP1 and DivIB. Our findings support a model for *S. aureus* in which a single population of processively moving FtsW/PBP1 remains associated with DivIB to drive cell constriction independently of treadmilling FtsZ filaments.
 
 </details>
-</li><br>
 
-<li markdown="1">
 <details markdown="1">
 <summary># <b>Z Hensel</b>*. <span>Predicted binding interface between coronavirus nsp3 and nsp4</span>. bioRxiv 483145, 2022. <a href="https://doi.org/10.1101/2022.03.05.483145">https://doi.org/10.1101/2022.03.05.483145</a></summary>
 
@@ -93,8 +91,8 @@ Click titles to **expand abstracts** and see data/analysis from our lab!
 **Abstract**: Double membrane vesicles (DMVs) in coronavirus-infected cells feature pores that span both membranes. DMV pores were observed to have six-fold symmetry and include the nsp3 protein. Co-expression of SARS-CoV nsp3 and nsp4 induces DMV formation, and elements of nsp3 and nsp4 have been identified that are essential for membrane disruption. I describe a predicted luminal binding interface between nsp3 and nsp4 that is membrane-associated, conserved in SARS-CoV-2 during the COVID-19 pandemic and in diverse coronaviruses, and stable in molecular dynamics simulation. Combined with structure predictions for the full-length nsp4 monomer and cryo-EM data, this suggests a DMV pore model in which nsp4 spans both membranes with nsp3 and nsp4 inserted into the same bilayer. This approach may be able to identify additional protein-protein interactions between coronavirus proteins.
 
 </details>
-</li><br>
 
+<ul>
 <li markdown="1">
 †R Letra-Vilela, †**R Quiteres**, F Murtinheira, A Crevenna, **Z Hensel**\*, F Herrera\*.
 *New tools for the visualization of glial fibrillary acidic protein in living cells*.
@@ -254,11 +252,11 @@ details > summary::-webkit-details-marker {
 }
 
 details > summary::before {
-    content: '▶️';
+    content: '▶️ ';
 }
 
 details[open] > summary::before {
-    content: '🔽';
+    content: '🔽 ';
 }
 
 details {
