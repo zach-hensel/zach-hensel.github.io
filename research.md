@@ -10,8 +10,8 @@ We also work on improved methods for recombinant gene expression and have distri
 
 Lab members in **bold**\
 † Equal contribution\
-\# Preprint not published elsewhere\
 \* Corresponding author\
+\# Preprint not published elsewhere
 
 ### Research manuscripts (including preprints not published elsewhere)
 
