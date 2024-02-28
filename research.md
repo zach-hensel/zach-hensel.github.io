@@ -18,8 +18,8 @@ Lab members in **bold**
 **Click titles to expand abstracts!**
 
 <ul markdown="1">
-<li>
-<details>
+<li markdown="1">
+<details markdown="1">
 <summary><b>Z Hensel</b>*. <span>Secondary structure of the SARS-CoV-2 genome is predictive of nucleotide substitution frequency</span>. bioRxiv PENDING, 2024. <a href="https://doi.org/10.1101/PENDING">https://doi.org/10.1101/PENDING</a></summary>
 
 <img src="image/research/1709074436982.png" width="450" />
@@ -28,8 +28,8 @@ Lab members in **bold**
 </details>
 </li><br>
 
-<li>
-<details>
+<li markdown="1">
+<details markdown="1">
 <summary>F Débarre*, <b>Z Hensel</b>. <span>A critical reexamination of recovered SARS-CoV-2 sequencing data</span>. bioRxiv 580500, 2024. DOI: <a href="https://doi.org/10.1101/2024.02.15.580500">https://doi.org/10.1101/2024.02.15.580500</a></summary>
 
 <img src="image/research/1709075305862.png" width=300 />
