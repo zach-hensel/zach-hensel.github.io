@@ -249,5 +249,9 @@ summary {
 details[open] > summary {
   list-style-type: '◀️ ';
 }
+summary::marker {
+  color: #e162bf;
+  font-size: 1.2em;
+}
 
 </style>
