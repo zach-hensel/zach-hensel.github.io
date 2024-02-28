@@ -8,9 +8,9 @@ We also work on improved methods for recombinant gene expression and have distri
 
 [Google Scholar](https://scholar.google.com/citations?user=QwsENLQAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-4348-6229): 0000-0002-4348-6229
 
-Lab members in **bold**
-† Equal contribution
-\# Preprint not published elsewhere
+Lab members in **bold**\
+† Equal contribution\
+\# Preprint not published elsewhere\
 \* Corresponding author\
 
 ### Research manuscripts (including preprints not published elsewhere)
@@ -245,15 +245,22 @@ span {
      color:blue;
      text-decoration:underline;
 }
-summary {
-  list-style-type: '▶️ ';
-} 
-details[open] > summary {
-  list-style-type: '◀️ ';
+details > summary {
+    list-style-type: '▶️';
 }
-summary::marker {
-  color: #e162bf;
-  font-size: 1.2em;
+
+details[open] > summary {
+    list-style-type: '🔽';
+}
+
+details {
+    border: 1px solid gray;
+    border-radius: 0.2rem;
+    padding: 0.5rem;
+}
+
+details[open] > summary {
+    margin-bottom: 0.5rem;
 }
 
 </style>
