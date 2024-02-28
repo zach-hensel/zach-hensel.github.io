@@ -15,7 +15,7 @@ Lab members in **bold**
 
 ### Research manuscripts (including preprints not published elsewhere)
 
-**Click titles to expand abstracts!**
+Click titles to **expand abstracts** and see data from our lab!
 
 <ul markdown="1">
 <li markdown="1">
@@ -42,7 +42,7 @@ Lab members in **bold**
 
 <li markdown="1">
 <details markdown="1">
-<summary>L Zimmermann, X Zhao, J Makroczyova, M Wachsmuth-Melm, V Prasad, **Z Hensel**,  R Bartenschlager, P Chlanda\*. <span>SARS-CoV-2 nsp3 and nsp4 are minimal constituents of a pore spanning replication organelle</span>. Nature Communications 14, 2023. <a href="https://doi.org/10.1038/s41467-023-43666-5">https://doi.org/10.1038/s41467-023-43666-5</a></summary>
+<summary>L Zimmermann, X Zhao, J Makroczyova, M Wachsmuth-Melm, V Prasad, <b>Z Hensel</b>,  R Bartenschlager, P Chlanda*. <span>SARS-CoV-2 nsp3 and nsp4 are minimal constituents of a pore spanning replication organelle</span>. Nature Communications 14, 2023. <a href="https://doi.org/10.1038/s41467-023-43666-5">https://doi.org/10.1038/s41467-023-43666-5</a></summary>
 
 <img src="image/research/1709080234066.png" width=300 />
 
