@@ -246,11 +246,19 @@ span {
      text-decoration:underline;
 }
 details > summary {
-    list-style-type: '▶️';
+    list-style-type: none;
 }
 
-details[open] > summary {
-    list-style-type: '🔽';
+details > summary::-webkit-details-marker {
+    display: none;
+}
+
+details > summary::before {
+    content: '▶️';
+}
+
+details[open] > summary::before {
+    content: '🔽';
 }
 
 details {
