@@ -8,9 +8,9 @@ We also work on improved methods for recombinant gene expression and have distri
 
 [Google Scholar](https://scholar.google.com/citations?user=QwsENLQAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-4348-6229): 0000-0002-4348-6229
 
-Lab members in **bold**\
-† Equal contribution\
-\# Preprint not published elsewhere\
+Lab members in **bold**
+† Equal contribution
+\# Preprint not published elsewhere
 \* Corresponding author\
 
 ### Research manuscripts (including preprints not published elsewhere)
@@ -81,17 +81,19 @@ Click titles to **expand abstracts** and see data/analysis from our lab!
 
 **Abstract**: Bacterial cell division is mediated by the tubulin-homolog FtsZ, which recruits peptidoglycan (PG) synthesis enzymes to the division site. Septal PG synthases promote inward growth of the division septum, but the mechanisms governing the spatiotemporal regulation of these enzymes are poorly understood. Recent studies on various organisms have proposed different models for the relationship between the movement and activity of septum-specific PG synthases and FtsZ treadmilling. Here, we studied the movement dynamics of conserved cell division proteins relative to the rates of septum constriction and FtsZ treadmilling in the Gram-positive pathogen *Staphylococcus aureus*. The septal PG synthesis enzyme complex FtsW/PBP1 and its putative activator protein, DivIB, moved processively, around the division site, with the same velocity. Impairing FtsZ treadmilling did not affect FtsW and DivIB velocities or septum constriction rates. Contrarily, inhibition of PG synthesis slowed down or completely stopped both septum constriction and the directional movement of FtsW/PBP1 and DivIB. Our findings support a model for *S. aureus* in which a single population of processively moving FtsW/PBP1 remains associated with DivIB to drive cell constriction independently of treadmilling FtsZ filaments.
 
-![1709141678947](image/research/1709141678947.png)
-
 </details>
 </li><br>
 
 <li markdown="1">
-\# **Z Hensel**\*.
-*Predicted binding interface between coronavirus nsp3 and nsp4*.
-bioRxiv 483145, 2022.
-[DOI: 10.1101/2022.03.05.483145](https://doi.org/10.1101/2022.03.05.483145)
-</li>
+<details markdown="1">
+<summary># <b>Z Hensel</b>*. <span>Predicted binding interface between coronavirus nsp3 and nsp4</span>. bioRxiv 483145, 2022. <a href="https://doi.org/10.1101/2022.03.05.483145">https://doi.org/10.1101/2022.03.05.483145</a></summary>
+
+<img src="image/research/1709145704824.png" width="450" />
+
+**Abstract**: Double membrane vesicles (DMVs) in coronavirus-infected cells feature pores that span both membranes. DMV pores were observed to have six-fold symmetry and include the nsp3 protein. Co-expression of SARS-CoV nsp3 and nsp4 induces DMV formation, and elements of nsp3 and nsp4 have been identified that are essential for membrane disruption. I describe a predicted luminal binding interface between nsp3 and nsp4 that is membrane-associated, conserved in SARS-CoV-2 during the COVID-19 pandemic and in diverse coronaviruses, and stable in molecular dynamics simulation. Combined with structure predictions for the full-length nsp4 monomer and cryo-EM data, this suggests a DMV pore model in which nsp4 spans both membranes with nsp3 and nsp4 inserted into the same bilayer. This approach may be able to identify additional protein-protein interactions between coronavirus proteins.
+
+</details>
+</li><br>
 
 <li markdown="1">
 †R Letra-Vilela, †**R Quiteres**, F Murtinheira, A Crevenna, **Z Hensel**\*, F Herrera\*.
