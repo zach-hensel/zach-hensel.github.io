@@ -8,9 +8,9 @@ We also work on improved methods for recombinant gene expression and have distri
 
 [Google Scholar](https://scholar.google.com/citations?user=QwsENLQAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-4348-6229): 0000-0002-4348-6229
 
-Lab members in **bold**  
-† Equal contribution  
-\# Preprint not published elsewhere  
+Lab members in **bold**
+† Equal contribution
+\# Preprint not published elsewhere
 \* Corresponding author
 
 ### Research manuscripts (including preprints not published elsewhere)
@@ -25,6 +25,7 @@ Lab members in **bold**
 <img src="image/research/1709074436982.png" width="450" />
 
 **Abstract**: Accurate estimation of the effects of mutations on SARS-CoV-2 viral fitness can inform public-health responses such as vaccine development and predicting the impact of a new variant; it can also illuminate biological mechanisms including those underlying the emergence of variants of concern. Recently, Lan et al reported a high-quality model of SARS-CoV-2 secondary structure and its underlying dimethyl sulfate (DMS) reactivity data. I investigated whether secondary structure can explain some variability in the frequency of observing different nucleotide substitutions across millions of patient sequences in the SARS-CoV-2 phylogenetic tree. Nucleotide basepairing was compared to the estimated “mutational fitness” of substitutions, a measurement of the difference between a substitution’s observed and expected frequency that is correlated with other estimates of viral fitness. This comparison revealed that secondary structure is often predictive of substitution frequency, with significant decreases in substitution frequencies at basepaired positions. Focusing on the mutational fitness of C→T, the most common type of substitution, I describe C→T substitutions at basepaired positions that characterize major SARS-CoV-2 variants; such mutations may have a greater impact on fitness than appreciated when considering substitution frequency alone.
+
 </details>
 </li><br>
 
@@ -35,6 +36,18 @@ Lab members in **bold**
 <img src="image/research/1709075305862.png" width=300 />
 
 **Abstract**: SARS-CoV-2 genomes collected at the onset of the Covid-19 pandemic are valuable because they could help understand how the virus entered the human population. In 2021, Jesse Bloom reported on the recovery of a dataset of raw sequencing reads that had been removed from the NCBI SRA database at the request of the data generators, a scientific team at Wuhan University (Wang et al., 2020b). Bloom suggested that the data may have been removed in order to obfuscate the origin of SARS-CoV-2, and he questioned the generating authors' statements that the samples had been collected on and after January 30, 2020. Here, we show that sample collection dates were published in 2020 by Wang et al. together with the sequencing reads, and match the dates given by the authors in 2021. We examine mutations in these sequences and confirm that they are entirely consistent with the previously known genetic diversity of SARS-CoV-2 of late January 2020. Finally, we explain how an apparent phylogenetic rooting paradox described by Bloom was resolved by subsequent analysis. Our reanalysis demonstrates that allegations of cover-up or of metadata manipulation were unwarranted.
+
+</details>
+</li><br>
+
+<li markdown="1">
+<details markdown="1">
+<summary markdown="1">L Zimmermann, X Zhao, J Makroczyova, M Wachsmuth-Melm, V Prasad, **Z Hensel**,  R Bartenschlager, P Chlanda\*. <span>SARS-CoV-2 nsp3 and nsp4 are minimal constituents of a pore spanning replication organelle</span>. bioRxiv PENDING, 2024. [DOI: 10.1038/s41467-023-43666-5](https://doi.org/10.1038/s41467-023-43666-5)</summary>
+
+<img src="image/research/1709080234066.png" width=300 />
+
+**Abstract**: Coronavirus replication is associated with the remodeling of cellular membranes, resulting in the formation of double-membrane vesicles (DMVs). A DMV-spanning pore was identified as a putative portal for viral RNA. However, the exact components and the structure of the SARS-CoV-2 DMV pore remain to be determined. Here, we investigate the structure of the DMV pore by in situ cryo-electron tomography combined with subtomogram averaging. We identify non-structural protein (nsp) 3 and 4 as minimal components required for the formation of a DMV-spanning pore, which is dependent on nsp3-4 proteolytic cleavage. In addition, we show that Mac2-Mac3-DPUP-Ubl2 domains are critical for nsp3 oligomerization and crown integrity which influences membrane curvature required for biogenesis of DMVs. Altogether, SARS-CoV-2 nsp3-4 have a dual role by driving the biogenesis of replication organelles and assembly of DMV-spanning pores which we propose here to term replicopores.
+
 </details>
 </li><br>
 
