@@ -53,26 +53,28 @@ bioRxiv 557637, 2023.
 [DOI: 10.1101/2023.09.13.557637](https://doi.org/10.1101/2023.09.13.557637)
 </li>
 
-<li>
+<li markdown="1">
 †BM Britton, †RA Yovanno, **SF Costa**,  J McCausland,  AY Lau,  J Xiao\*, **Z Hensel**\*.
 *Conformational changes in the essential E. coli septal cell wall synthesis complex suggest an activation mechanism*.
 Nature Communications 14, 2023.
 [DOI: 10.1038/s41467-023-39921-4](https://doi.org/10.1038/s41467-023-39921-4)
 </li>
 
-<li>
+<li markdown="1">
 \# S Schäper, AD Brito, BM Saraiva, GR Squyres, MJ Holmes, EC Garner, **Z Hensel**, R Henriques, \*MG Pinho.
 *Processive movement of Staphylococcus aureus essential septal peptidoglycan synthases is independent of FtsZ treadmilling and drives cell constriction*.
 bioRxiv 547026, 2023.
 [DOI: 10.1101/2023.06.29.547026](https://doi.org/10.1101/2023.06.29.547026)
 </li>
 
-<li>
+<li markdown="1">
 \# **Z Hensel**\*.
 *Predicted binding interface between coronavirus nsp3 and nsp4*.
 bioRxiv 483145, 2022.
 [DOI: 10.1101/2022.03.05.483145](https://doi.org/10.1101/2022.03.05.483145)
-</li>
+</li markdown="1">
+
+</ul>
 
 †R Letra-Vilela, †**R Quiteres**, F Murtinheira, A Crevenna, **Z Hensel**\*, F Herrera\*.
 *New tools for the visualization of glial fibrillary acidic protein in living cells*.
