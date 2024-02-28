@@ -8,14 +8,14 @@ We also work on improved methods for recombinant gene expression and have distri
 
 [Google Scholar](https://scholar.google.com/citations?user=QwsENLQAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-4348-6229): 0000-0002-4348-6229
 
-Lab members in **bold**
-† Equal contribution
-\# Preprint not published elsewhere
-\* Corresponding author
+Lab members in **bold**\
+† Equal contribution\
+\# Preprint not published elsewhere\
+\* Corresponding author\
 
 ### Research manuscripts (including preprints not published elsewhere)
 
-Click titles to **expand abstracts** and see data from our lab!
+Click titles to **expand abstracts** and see data/analysis from our lab!
 
 <ul markdown="1">
 <li markdown="1">
@@ -50,13 +50,6 @@ Click titles to **expand abstracts** and see data from our lab!
 
 </details>
 </li><br>
-
-<li markdown="1">
-L Zimmermann, X Zhao, J Makroczyova, M Wachsmuth-Melm, V Prasad, **Z Hensel**,  R Bartenschlager, P Chlanda\*.
-*SARS-CoV-2 nsp3 and nsp4 are minimal constituents of a pore spanning replication organelle*.
-Nature Communications 14, 2023.
-[DOI: 10.1038/s41467-023-43666-5](https://doi.org/10.1038/s41467-023-43666-5)
-</li>
 
 <li markdown="1">
 \# A Crits-Christoph, JI Levy, JE Pekar, SA Goldstein, R Singh, **Z Hensel**, K Gangavarapu, MB Rogers, N Moshiri, RF Garry, EC Holmes, MPG Koopmans, P Lemey, S Popescu, A Rambaut, DL Robertson, MA Suchard, JO Wertheim, AL Rasmussen, KG Andersen\*, M Worobey\*, F Débarre\*.
