@@ -17,9 +17,9 @@ Lab members in **bold**
 
 **Click titles to expand abstracts!**
 
-<ul>
+<ul markdown="1">
  <li>
-  <details markdown="1">
+  <details>
    <summary><b>Z Hensel</b>*. <span>Secondary structure of the SARS-CoV-2 genome is predictive of nucleotide substitution frequency</span>. bioRxiv PENDING, 2024. <a href="https://doi.org/10.1101/PENDING">https://doi.org/10.1101/PENDING</a></summary>
 
    <img src="image/research/1709074436982.png" width="450" />
@@ -29,7 +29,7 @@ Lab members in **bold**
  </li>
 
  <li>
-  <details markdown="1">
+  <details>
    <summary>F Débarre*, <b>Z Hensel</b>. <span>A critical reexamination of recovered SARS-CoV-2 sequencing data</span>. bioRxiv 580500, 2024. DOI: <a href="https://doi.org/10.1101/2024.02.15.580500">https://doi.org/10.1101/2024.02.15.580500</a></summary>
 
    <img src="image/research/1709075305862.png" width=300 />
@@ -39,14 +39,14 @@ Lab members in **bold**
  </li>
 
 
-<li>
+<li markdown="1">
 L Zimmermann, X Zhao, J Makroczyova, M Wachsmuth-Melm, V Prasad, **Z Hensel**,  R Bartenschlager, P Chlanda\*.
 *SARS-CoV-2 nsp3 and nsp4 are minimal constituents of a pore spanning replication organelle*.
 Nature Communications 14, 2023.
 [DOI: 10.1038/s41467-023-43666-5](https://doi.org/10.1038/s41467-023-43666-5)
 </li>
 
-<li>
+<li markdown="1">
 \# A Crits-Christoph, JI Levy, JE Pekar, SA Goldstein, R Singh, **Z Hensel**, K Gangavarapu, MB Rogers, N Moshiri, RF Garry, EC Holmes, MPG Koopmans, P Lemey, S Popescu, A Rambaut, DL Robertson, MA Suchard, JO Wertheim, AL Rasmussen, KG Andersen\*, M Worobey\*, F Débarre\*.
 *Genetic tracing of market wildlife and viruses at the epicenter of the COVID-19 pandemic*.
 bioRxiv 557637, 2023.
