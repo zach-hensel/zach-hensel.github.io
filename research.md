@@ -37,33 +37,42 @@ Lab members in **bold**
    **Abstract**: SARS-CoV-2 genomes collected at the onset of the Covid-19 pandemic are valuable because they could help understand how the virus entered the human population. In 2021, Jesse Bloom reported on the recovery of a dataset of raw sequencing reads that had been removed from the NCBI SRA database at the request of the data generators, a scientific team at Wuhan University (Wang et al., 2020b). Bloom suggested that the data may have been removed in order to obfuscate the origin of SARS-CoV-2, and he questioned the generating authors' statements that the samples had been collected on and after January 30, 2020. Here, we show that sample collection dates were published in 2020 by Wang et al. together with the sequencing reads, and match the dates given by the authors in 2021. We examine mutations in these sequences and confirm that they are entirely consistent with the previously known genetic diversity of SARS-CoV-2 of late January 2020. Finally, we explain how an apparent phylogenetic rooting paradox described by Bloom was resolved by subsequent analysis. Our reanalysis demonstrates that allegations of cover-up or of metadata manipulation were unwarranted.
   </details>
  </li>
-</ul>
 
 
+<li>
 L Zimmermann, X Zhao, J Makroczyova, M Wachsmuth-Melm, V Prasad, **Z Hensel**,  R Bartenschlager, P Chlanda\*.
 *SARS-CoV-2 nsp3 and nsp4 are minimal constituents of a pore spanning replication organelle*.
 Nature Communications 14, 2023.
 [DOI: 10.1038/s41467-023-43666-5](https://doi.org/10.1038/s41467-023-43666-5)
+</li>
 
+<li>
 \# A Crits-Christoph, JI Levy, JE Pekar, SA Goldstein, R Singh, **Z Hensel**, K Gangavarapu, MB Rogers, N Moshiri, RF Garry, EC Holmes, MPG Koopmans, P Lemey, S Popescu, A Rambaut, DL Robertson, MA Suchard, JO Wertheim, AL Rasmussen, KG Andersen\*, M Worobey\*, F Débarre\*.
 *Genetic tracing of market wildlife and viruses at the epicenter of the COVID-19 pandemic*.
 bioRxiv 557637, 2023.
 [DOI: 10.1101/2023.09.13.557637](https://doi.org/10.1101/2023.09.13.557637)
+</li>
 
+<li>
 †BM Britton, †RA Yovanno, **SF Costa**,  J McCausland,  AY Lau,  J Xiao\*, **Z Hensel**\*.
 *Conformational changes in the essential E. coli septal cell wall synthesis complex suggest an activation mechanism*.
 Nature Communications 14, 2023.
 [DOI: 10.1038/s41467-023-39921-4](https://doi.org/10.1038/s41467-023-39921-4)
+</li>
 
+<li>
 \# S Schäper, AD Brito, BM Saraiva, GR Squyres, MJ Holmes, EC Garner, **Z Hensel**, R Henriques, \*MG Pinho.
 *Processive movement of Staphylococcus aureus essential septal peptidoglycan synthases is independent of FtsZ treadmilling and drives cell constriction*.
 bioRxiv 547026, 2023.
 [DOI: 10.1101/2023.06.29.547026](https://doi.org/10.1101/2023.06.29.547026)
+</li>
 
+<li>
 \# **Z Hensel**\*.
 *Predicted binding interface between coronavirus nsp3 and nsp4*.
 bioRxiv 483145, 2022.
 [DOI: 10.1101/2022.03.05.483145](https://doi.org/10.1101/2022.03.05.483145)
+</li>
 
 †R Letra-Vilela, †**R Quiteres**, F Murtinheira, A Crevenna, **Z Hensel**\*, F Herrera\*.
 *New tools for the visualization of glial fibrillary acidic protein in living cells*.
@@ -114,6 +123,8 @@ E Barry, **Z Hensel**, Z Dogic, M Shribak, R Oldenbourg.
 *Entropy-driven formation of a chiral liquid-crystalline phase of helical filaments*.
 Physical Review Letters 96, 2006.
 [DOI: 10.1103/PhysRevLett.96.018305](https://doi.org/10.1103/PhysRevLett.96.018305).
+
+</ul>
 
 ### Reviews/Highlights
 
