@@ -18,7 +18,7 @@ Lab members in **bold**\
 Click titles to **expand abstracts** and see data/analysis from our lab for papers since 2022!
 
 <details markdown="1">
-<summary># <b>Z Hensel</b>*. <span>Secondary structure of the SARS-CoV-2 genome is predictive of nucleotide substitution frequency</span>. bioRxiv 581995, 2024. <a href="https://doi.org/10.1101/PENDING">https://doi.org/10.1101/PENDING</a></summary>
+<summary># <b>Z Hensel</b>*. <span>Secondary structure of the SARS-CoV-2 genome is predictive of nucleotide substitution frequency</span>. bioRxiv 581995, 2024. <a href="https://doi.org/10.1101/2024.02.27.581995">https://doi.org/10.1101/2024.02.27.581995</a></summary>
 
 <img src="image/research/1709074436982.png" width="450" />
 
