@@ -8,14 +8,23 @@ We also work on improved methods for recombinant gene expression and have distri
 
 [Google Scholar](https://scholar.google.com/citations?user=QwsENLQAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-4348-6229): 0000-0002-4348-6229
 
-Lab members in **bold**\
-† Equal contribution\
-\* Corresponding author\
+Lab members in **bold**
+† Equal contribution
+\* Corresponding author
 \# Preprint not published elsewhere
 
 ### Research manuscripts (including preprints not published elsewhere)
 
 Click titles to **expand abstracts** and see data/analysis from our lab for papers since 2022!
+
+<details markdown="1">
+<summary># †<b>JR Ferreira</b>, †<b>R Xu</b>, <b>Z Hensel</b>*. <span><i>Mycobacterium tuberculosis</i> FtsB and PerM interact via a C-terminal helix in FtsB to modulate cell division</span>. bioRxiv 584518, 2024. <a href="https://doi.org/10.1101/2024.03.11.584518">https://doi.org/10.1101/2024.03.11.584518</a></summary>
+
+<img src="image/research/1710262172884.png" width="600" />
+
+**Abstract**: Latent infection by *Mycobacterium tuberculosis* (Mtb) impedes effective tuberculosis therapy and eradication. The protein PerM is essential for chronic Mtb infections in mice and acts via the divisome protein FtsB to modulate cell division. Using transgenic co-expression in *Escherichia coli*, we studied the Mtb PerM-FtsB interaction in isolation from other Mtb proteins, engineering PerM to enhance expression in the *E. coli* membrane. We confirmed the reported instability of Mtb FtsB, and we linked FtsB instability to a segment of FtsB predicted to bind cell-division proteins FtsL and FtsQ. Though narrowly conserved, the PerM-FtsB interaction emerges as a potential target for therapy targeting persistent infections by disrupting regulation of cell division. Using fluorescence microscopy, we found that stability of both FtsB and PerM hinges on their interaction via a C-terminal helix in FtsB. Molecular dynamics results supported the observation that FtsB stabilized PerM, and suggested that interactions at the PerM-FtsB interface differ from our initial structure prediction in a way that is consistent with PerM sequence conservation. Integrating protein structure prediction, molecular dynamics and single-molecule microscopy, our approach is primed to screen potential inhibitors of the PerM-FtsB interaction and can be straightforwardly adapted to explore other putative interactions.
+
+</details>
 
 <details markdown="1">
 <summary># <b>Z Hensel</b>*. <span>Secondary structure of the SARS-CoV-2 genome is predictive of nucleotide substitution frequency</span>. bioRxiv 581995, 2024. <a href="https://doi.org/10.1101/2024.02.27.581995">https://doi.org/10.1101/2024.02.27.581995</a></summary>
@@ -204,6 +213,7 @@ arXiv cond-mat/0510708, 2005.
 [Link](https://arxiv.org/abs/cond-mat/0510708).
 
 <style>
+
 span {
      font-weight: bold;
 }
