@@ -218,7 +218,8 @@ arXiv cond-mat/0510708, 2005.
 <style>
 
 span {
-     font-weight: bold;
+     /* font-weight: bold; */
+     font-style: italic;
 }
 
 details > summary {
