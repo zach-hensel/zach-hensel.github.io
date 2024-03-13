@@ -8,10 +8,10 @@ We also work on improved methods for recombinant gene expression and have distri
 
 [Google Scholar](https://scholar.google.com/citations?user=QwsENLQAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-4348-6229): 0000-0002-4348-6229
 
-Lab members in **bold**
-† Equal contribution
-\* Corresponding author
-\# Preprint not published elsewhere
+Lab members in **bold**\
+† Equal contribution\
+\* Corresponding author\
+\# Preprint not published elsewhere\
 
 ### Research manuscripts (including preprints not published elsewhere)
 
