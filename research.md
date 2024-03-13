@@ -18,6 +18,15 @@ Lab members in **bold**
 Click titles to **expand abstracts** and see data/analysis from our lab for papers since 2022!
 
 <details markdown="1">
+<summary>S Schäper, AD Brito, BM Saraiva, GR Squyres, MJ Holmes, EC Garner, <b>Z Hensel</b>, R Henriques, MG Pinho*. <span>Cell constriction requires processive septal peptidoglycan synthase movement independent of FtsZ treadmilling in <i>Staphylococcus aureus</i></span>. Nature Microbiology, 2024. <a href="https://doi.org/10.1038/s41564-024-01629-6">https://doi.org/10.1038/s41564-024-01629-6</a></summary>
+
+<img src="image/research/1709141678947.png" width=400 />
+
+**Abstract**: Bacterial cell division requires recruitment of peptidoglycan (PG) synthases to the division site by the tubulin homologue, FtsZ. Septal PG synthases promote septum growth. FtsZ treadmilling is proposed to drive the processive movement of septal PG synthases and septal constriction in some bacteria; however, the precise mechanisms spatio-temporally regulating PG synthase movement and activity and FtsZ treadmilling are poorly understood. Here using single-molecule imaging of division proteins in the Gram-positive pathogen <i>Staphylococcus aureus</i>, we showed that the septal PG synthase complex FtsW/PBP1 and its putative activator protein, DivIB, move with similar velocity around the division site. Impairing FtsZ treadmilling did not affect FtsW or DivIB velocities or septum constriction rates. Contrarily, PG synthesis inhibition decelerated or stopped directional movement of FtsW and DivIB, and septum constriction. Our findings suggest that a single population of processively moving FtsW/PBP1 associated with DivIB drives cell constriction independently of FtsZ treadmilling in S. aureus.
+
+</details>
+
+<details markdown="1">
 <summary># †<b>JR Ferreira</b>, †<b>R Xu</b>, <b>Z Hensel</b>*. <span><i>Mycobacterium tuberculosis</i> FtsB and PerM interact via a C-terminal helix in FtsB to modulate cell division</span>. bioRxiv 584518, 2024. <a href="https://doi.org/10.1101/2024.03.11.584518">https://doi.org/10.1101/2024.03.11.584518</a></summary>
 
 <img src="image/research/1710262172884.png" width="600" />
@@ -68,15 +77,6 @@ Click titles to **expand abstracts** and see data/analysis from our lab for pape
 <img src="image/research/1709141406828.png" width=550 />
 
 **Abstract**: The bacterial divisome is a macromolecular machine composed of more than 30 proteins that controls cell wall constriction during division. Here, we present a model of the structure and dynamics of the core complex of the *E. coli* divisome, supported by a combination of structure prediction, molecular dynamics simulation, single-molecule imaging, and mutagenesis. We focus on the septal cell wall synthase complex formed by FtsW and FtsI, and its regulators FtsQ, FtsL, FtsB, and FtsN. The results indicate extensive interactions in four regions in the periplasmic domains of the complex. FtsQ, FtsL, and FtsB support FtsI in an extended conformation, with the FtsI transpeptidase domain lifted away from the membrane through interactions among the C-terminal domains. FtsN binds between FtsI and FtsL in a region rich in residues with superfission (activating) and dominant negative (inhibitory) mutations. Mutagenesis experiments and simulations suggest that the essential domain of FtsN links FtsI and FtsL together, potentially modulating interactions between the anchor-loop of FtsI and the putative catalytic cavity of FtsW, thus suggesting a mechanism of how FtsN activates the cell wall synthesis activities of FtsW and FtsI.
-
-</details>
-
-<details markdown="1">
-<summary># S Schäper, AD Brito, BM Saraiva, GR Squyres, MJ Holmes, EC Garner, <b>Z Hensel</b>, R Henriques, *MG Pinho. <span>Processive movement of <i>Staphylococcus aureus</i> essential septal peptidoglycan synthases is independent of FtsZ treadmilling and drives cell constriction</span>. bioRxiv 547026, 2023. <a href="https://doi.org/10.1101/2023.06.29.547026">https://doi.org/10.1101/2023.06.29.547026</a></summary>
-
-<img src="image/research/1709141678947.png" width=400 />
-
-**Abstract**: Bacterial cell division is mediated by the tubulin-homolog FtsZ, which recruits peptidoglycan (PG) synthesis enzymes to the division site. Septal PG synthases promote inward growth of the division septum, but the mechanisms governing the spatiotemporal regulation of these enzymes are poorly understood. Recent studies on various organisms have proposed different models for the relationship between the movement and activity of septum-specific PG synthases and FtsZ treadmilling. Here, we studied the movement dynamics of conserved cell division proteins relative to the rates of septum constriction and FtsZ treadmilling in the Gram-positive pathogen *Staphylococcus aureus*. The septal PG synthesis enzyme complex FtsW/PBP1 and its putative activator protein, DivIB, moved processively, around the division site, with the same velocity. Impairing FtsZ treadmilling did not affect FtsW and DivIB velocities or septum constriction rates. Contrarily, inhibition of PG synthesis slowed down or completely stopped both septum constriction and the directional movement of FtsW/PBP1 and DivIB. Our findings support a model for *S. aureus* in which a single population of processively moving FtsW/PBP1 remains associated with DivIB to drive cell constriction independently of treadmilling FtsZ filaments.
 
 </details>
 
@@ -182,10 +182,13 @@ Journal of Visualized Experiments, 2013.
 
 ### Published preprints
 
+S Schäper, AD Brito, BM Saraiva, GR Squyres, MJ Holmes, EC Garner, **Z Hensel**, R Henriques, MG Pinho\*. *Processive movement of Staphylococcus aureus essential septal peptidoglycan synthases is independent of FtsZ treadmilling and drives cell constriction*.
+bioRxiv 547026, 2023. <a href="https://doi.org/10.1101/2023.06.29.547026">https://doi.org/10.1101/2023.06.29.547026</a></summary>
+
 †BM Britton, †RA Yovanno, **SF Costa**,  J McCausland,  AY Lau,  J Xiao\*, **Z Hensel**\*.
 *Conformational changes in the essential E. coli septal cell wall synthesis complex suggest an activation mechanism*.
-bioRxiv 2022.11.27.518129v1, 2022
-[DOI: 10.1101/2022.11.27.518129v1](https://doi.org/10.1101/2022.11.27.518129v1)
+bioRxiv 518129, 2022
+[DOI: 10.1101/2022.11.27.518129](https://doi.org/10.1101/2022.11.27.518129)
 
 **JPN Silva**, **SV Lopes**,  **DJ Grilo**,  **Z Hensel**\*.
 *Plasmids for independently tunable, low-noise expression of two genes*.
