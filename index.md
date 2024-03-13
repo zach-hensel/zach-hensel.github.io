@@ -9,8 +9,15 @@ Our lab answers questions in microbial molecular biology, with a focus on single
 ## Current research
 
 ### Latest preprint
+
 From João Ramalheira Ferreira and Ruilan Xu in bioRxiv:
 [Mycobacterium tuberculosis FtsB and PerM interact via a C-terminal helix in FtsB to modulate cell division](https://doi.org/10.1101/2024.03.11.584518)
+
+We used fluorescence microscopy including single-molecule tracking to investigate the *M. tuberculosis* PerM-FtsB interaction, expressing the proteins in *E. coli*cells.
+
+![1710360586395](image/index/1710360586395.png)
+
+Here's a movie of the *M. tuberculosis* divisome with PerM-FtsB interaction:
 
 <video width="361" height="310" controls>
   <source src="/img/perm-divisome.webm" type="video/mp4">
