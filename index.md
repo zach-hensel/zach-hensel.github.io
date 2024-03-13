@@ -25,9 +25,7 @@ Here's a movie of the *M. tuberculosis* divisome with PerM-FtsB interaction:
 
 ### Recent peer reviewed work
 
-Check out our other recent work on [a protein complex essential for remodelling the *E. coli* cell wall](https://www.nature.com/articles/s41467-023-39921-4) every cell time the cell divides. In collaboration with [Jie Xiao&#39;s lab](https://xiao.med.jhmi.edu/) and [Albert Lau&#39;s lab](https://lau.med.jhmi.edu/), we investigated the structure and dynamics of this "divisome" to examine how variations at key protein-protein interfaces could impact essential enzymatic activities. Now, we are applying insights from this method to look at how cell division can respond to environmental changes.
-
-![molecular dynamics of the divisome complex](/img/divisome.gif){: .blog-image-center }*Dynamics of the bacterial divisome*{: .blog-image-caption }
+Check out our other recent work on [a protein complex essential for remodelling the *E. coli* cell wall](https://www.nature.com/articles/s41467-023-39921-4) every cell time the cell divides. In collaboration with [Jie Xiao&#39;s lab](https://xiao.med.jhmi.edu/) and [Albert Lau&#39;s lab](https://lau.med.jhmi.edu/), we investigated the structure and dynamics of this "divisome" to examine how variations at key protein-protein interfaces could impact essential enzymatic activities.
 
 Also see our [low-noise gene expression system](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187259) in *E. coli* ([plasmids available at AddGene](https://www.addgene.org/Zach_Hensel/)). We developed this to facilitate single-molecule experiments with fluorescent proteins that require very low expression levels with very low cell-to-cell variation. In João Silva's thesis work, we subsequently extended this for [independent tuning of low-noise expression of two proteins from two plasmids](https://journals.asm.org/doi/full/10.1128/msphere.00340-19).
 
