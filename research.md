@@ -2,6 +2,8 @@
 
 We focus on single-molecule experiments in living cells using fluorescent proteins and other fluorescent molecules.
 
+Please contact zach.hensel@itqb.unl.pt if you are interested in working on a project in the lab or collaborating. Two of the possible themes for a research project are imaging transcription elongation in real time with single-molecule resolution and investigating how mycobacterial cell division responds to environmental stress both with fluorescence microscopy and computational methods.
+
 We also work on improved methods for recombinant gene expression and have distributed some plasmids that are very useful for low-noise gene expression that can be found at [AddGene](https://www.addgene.org/Zach_Hensel/).
 
 ## Publications from lab members

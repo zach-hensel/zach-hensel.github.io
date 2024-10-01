@@ -2,6 +2,8 @@
 
 Welcome to our lab! We are part of the [MostMicro](http://www.itqb.unl.pt/mostmicro) research unit at [ITQB NOVA](http://www.itqb.unl.pt/), an institute of [Universidade NOVA de Lisboa](http://www.unl.pt/). The lab started in January 2017.
 
+Please contact zach.hensel@itqb.unl.pt if you are interested in working on a project in the lab or collaborating. Two of the possible themes for a research project are imaging transcription elongation in real time with single-molecule resolution and investigating how mycobacterial cell division responds to environmental stress both with fluorescence microscopy and computational methods.
+
 ## Mission Statement
 
 Our lab answers questions in microbial molecular biology, with a focus on single-molecule fluorescence microscopy in living cells. By detecting, tracking and counting individual DNA, mRNA and protein molecules, we will learn how to make better synthetic genetic circuits, how gene expression is regulated, and how cells interact with each other, other organisms, and their environments. We are especially interested in how single-cells evolve over time: our experiments complement modern high-resolution and high-throughput approaches that look at single time points. We closely follow developments in microscopy (especially emerging 3D imaging techniques) and fluorescent labeling. The lab embraces the open science revolution, with strong preferences for open access publication, data/code availability, and preprint.
