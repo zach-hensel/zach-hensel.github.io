@@ -18,6 +18,24 @@ Lab members in **bold**\
 Click titles to **expand abstracts** and see data/analysis from our lab for papers since 2022!
 
 <details markdown="1">
+<summary># A Crits-Christoph, JI Levy, JE Pekar, SA Goldstein, R Singh, <b>Z Hensel</b>, K Gangavarapu, MB Rogers, N Moshiri, RF Garry, EC Holmes, MPG Koopmans, P Lemey, S Popescu, A Rambaut, DL Robertson, MA Suchard, JO Wertheim, AL Rasmussen, KG Andersen*, M Worobey*, F Débarre*. <span>Genetic tracing of market wildlife and viruses at the epicenter of the COVID-19 pandemic</span>. Cell, 2024. <a href="https://doi.org/10.1016/j.cell.2024.08.010">https://doi.org/10.1016/j.cell.2024.08.010</a></summary>
+
+<img src="image/research/fx1_lrg.jpg" width=450 />
+
+**Abstract**: Zoonotic spillovers of viruses have occurred through the animal trade worldwide. The start of the COVID-19 pandemic was traced epidemiologically to the Huanan Seafood Wholesale Market. Here, we analyze environmental qPCR and sequencing data collected in the Huanan market in early 2020. We demonstrate that market-linked severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) genetic diversity is consistent with market emergence and find increased SARS-CoV-2 positivity near and within a wildlife stall. We identify wildlife DNA in all SARS-CoV-2-positive samples from this stall, including species such as civets, bamboo rats, and raccoon dogs, previously identified as possible intermediate hosts. We also detect animal viruses that infect raccoon dogs, civets, and bamboo rats. Combining metagenomic and phylogenetic approaches, we recover genotypes of market animals and compare them with those from farms and other markets. This analysis provides the genetic basis for a shortlist of potential intermediate hosts of SARS-CoV-2 to prioritize for serological and viral sampling.
+
+</details>
+
+<details markdown="1">
+<summary>S Schäper, AD Brito, BM Saraiva, GR Squyres, MJ Holmes, EC Garner, <b>Z Hensel</b>, R Henriques, MG Pinho*. <span>Cell constriction requires processive septal peptidoglycan synthase movement independent of FtsZ treadmilling in <i>Staphylococcus aureus</i></span>. Nature Microbiology, 2024. <a href="https://doi.org/10.1038/s41564-024-01629-6">https://doi.org/10.1038/s41564-024-01629-6</a></summary>
+
+<img src="image/research/1709141678947.png" width=400 />
+
+**Abstract**: Bacterial cell division requires recruitment of peptidoglycan (PG) synthases to the division site by the tubulin homologue, FtsZ. Septal PG synthases promote septum growth. FtsZ treadmilling is proposed to drive the processive movement of septal PG synthases and septal constriction in some bacteria; however, the precise mechanisms spatio-temporally regulating PG synthase movement and activity and FtsZ treadmilling are poorly understood. Here using single-molecule imaging of division proteins in the Gram-positive pathogen <i>Staphylococcus aureus</i>, we showed that the septal PG synthase complex FtsW/PBP1 and its putative activator protein, DivIB, move with similar velocity around the division site. Impairing FtsZ treadmilling did not affect FtsW or DivIB velocities or septum constriction rates. Contrarily, PG synthesis inhibition decelerated or stopped directional movement of FtsW and DivIB, and septum constriction. Our findings suggest that a single population of processively moving FtsW/PBP1 associated with DivIB drives cell constriction independently of FtsZ treadmilling in S. aureus.
+
+</details>
+
+<details markdown="1">
 <summary>S Schäper, AD Brito, BM Saraiva, GR Squyres, MJ Holmes, EC Garner, <b>Z Hensel</b>, R Henriques, MG Pinho*. <span>Cell constriction requires processive septal peptidoglycan synthase movement independent of FtsZ treadmilling in <i>Staphylococcus aureus</i></span>. Nature Microbiology, 2024. <a href="https://doi.org/10.1038/s41564-024-01629-6">https://doi.org/10.1038/s41564-024-01629-6</a></summary>
 
 <img src="image/research/1709141678947.png" width=400 />
@@ -59,15 +77,6 @@ Click titles to **expand abstracts** and see data/analysis from our lab for pape
 <img src="image/research/1709080234066.png" width=300 />
 
 **Abstract**: Coronavirus replication is associated with the remodeling of cellular membranes, resulting in the formation of double-membrane vesicles (DMVs). A DMV-spanning pore was identified as a putative portal for viral RNA. However, the exact components and the structure of the SARS-CoV-2 DMV pore remain to be determined. Here, we investigate the structure of the DMV pore by in situ cryo-electron tomography combined with subtomogram averaging. We identify non-structural protein (nsp) 3 and 4 as minimal components required for the formation of a DMV-spanning pore, which is dependent on nsp3-4 proteolytic cleavage. In addition, we show that Mac2-Mac3-DPUP-Ubl2 domains are critical for nsp3 oligomerization and crown integrity which influences membrane curvature required for biogenesis of DMVs. Altogether, SARS-CoV-2 nsp3-4 have a dual role by driving the biogenesis of replication organelles and assembly of DMV-spanning pores which we propose here to term replicopores.
-
-</details>
-
-<details markdown="1">
-<summary># A Crits-Christoph, JI Levy, JE Pekar, SA Goldstein, R Singh, <b>Z Hensel</b>, K Gangavarapu, MB Rogers, N Moshiri, RF Garry, EC Holmes, MPG Koopmans, P Lemey, S Popescu, A Rambaut, DL Robertson, MA Suchard, JO Wertheim, AL Rasmussen, KG Andersen*, M Worobey*, F Débarre*. <span>Genetic tracing of market wildlife and viruses at the epicenter of the COVID-19 pandemic</span>. bioRxiv 557637, 2023. <a href="https://doi.org/10.1101/2023.09.13.557637">https://doi.org/10.1101/2023.09.13.557637</a></summary>
-
-<img src="image/research/1709141225200.png" width=450 />
-
-**Abstract**: Zoonotic spillovers of viruses have occurred through the animal trade worldwide. The start of the COVID-19 pandemic was traced epidemiologically to the Huanan Wholesale Seafood Market, the site with the most reported wildlife vendors in the city of Wuhan, China. Here, we analyze publicly available qPCR and sequencing data from environmental samples collected in the Huanan market in early 2020. We demonstrate that the SARS-CoV-2 genetic diversity linked to this market is consistent with market emergence, and find increased SARS-CoV-2 positivity near and within a particular wildlife stall. We identify wildlife DNA in all SARS-CoV-2 positive samples from this stall. This includes species such as civets, bamboo rats, porcupines, hedgehogs, and one species, raccoon dogs, known to be capable of SARS-CoV-2 transmission. We also detect other animal viruses that infect raccoon dogs, civets, and bamboo rats. Combining metagenomic and phylogenetic approaches, we recover genotypes of market animals and compare them to those from other markets. This analysis provides the genetic basis for a short list of potential intermediate hosts of SARS-CoV-2 to prioritize for retrospective serological testing and viral sampling.
 
 </details>
 
@@ -182,8 +191,15 @@ Journal of Visualized Experiments, 2013.
 
 ### Published preprints
 
-S Schäper, AD Brito, BM Saraiva, GR Squyres, MJ Holmes, EC Garner, **Z Hensel**, R Henriques, MG Pinho\*. *Processive movement of Staphylococcus aureus essential septal peptidoglycan synthases is independent of FtsZ treadmilling and drives cell constriction*.
-bioRxiv 547026, 2023. <a href="https://doi.org/10.1101/2023.06.29.547026">https://doi.org/10.1101/2023.06.29.547026</a></summary>
+A Crits-Christoph, JI Levy, JE Pekar, SA Goldstein, R Singh, **Z Hensel**, K Gangavarapu, MB Rogers, N Moshiri, RF Garry, EC Holmes, MPG Koopmans, P Lemey, S Popescu, A Rambaut, DL Robertson, MA Suchard, JO Wertheim, AL Rasmussen, KG Andersen*, M Worobey\*, F Débarre\*.
+*Genetic tracing of market wildlife and viruses at the epicenter of the COVID-19 pandemic*.
+bioRxiv 557637, 2023.
+[DOI: 10.1101/2023.09.13.557637](https://doi.org/10.1101/2023.09.13.557637)
+
+S Schäper, AD Brito, BM Saraiva, GR Squyres, MJ Holmes, EC Garner, **Z Hensel**, R Henriques, MG Pinho\*.
+*Processive movement of Staphylococcus aureus essential septal peptidoglycan synthases is independent of FtsZ treadmilling and drives cell constriction*.
+bioRxiv 547026, 2023.
+[DOI:10.1101/2023.06.29.547026](https://doi.org/10.1101/2023.06.29.547026)
 
 †BM Britton, †RA Yovanno, **SF Costa**,  J McCausland,  AY Lau,  J Xiao\*, **Z Hensel**\*.
 *Conformational changes in the essential E. coli septal cell wall synthesis complex suggest an activation mechanism*.
