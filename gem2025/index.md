@@ -4,6 +4,14 @@ This is the website for the curricular unit **Gene Expression Mechanisms**.
 
 Course dates: 24 March--28 March, 2023
 
+### Structure prediction tools
+
+* [ColabFold (AlphaFold2 and AlphaFold-multimer)](https://colabfold.com/)
+	* [More details at ColabFold GitHub repository](https://github.com/sokrypton/ColabFold)
+* [Foldseek](https://search.foldseek.com/search)
+* [AlphaFold Server (AlphaFold3)](https://alphafoldserver.com/)
+* [Chai1 (similar to AlphaFold3](https://lab.chaidiscovery.com/)
+
 ### Project proposal evaluations
 [Please fill out the form at this link and mail it to me](https://docs.google.com/spreadsheets/d/1a1BWC440SxSYPmQFdevmWQ3nNuTdFGoBCy2SVkwwkqg/edit?usp=sharing)
 
@@ -18,7 +26,7 @@ Course dates: 24 March--28 March, 2023
 
 * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
-* [Stochastic Simulations wiht Tellurium Google colab notebook](https://colab.research.google.com/drive/1KAZ0g7CA-vjWGVQywEavk2AMnPXAb-15)
+* [Stochastic Simulations with Tellurium Google colab notebook](https://colab.research.google.com/drive/1KAZ0g7CA-vjWGVQywEavk2AMnPXAb-15)
 
 * [Tellurium notebooks—An environment for reproducible dynamical modeling in systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021116/)
 
@@ -30,9 +38,15 @@ Course dates: 24 March--28 March, 2023
 
 #### Articles selected by teams
 
-* [Team 1: TBD](highlights/team1.pdf)
-* [Team 2: TBD](highlights/team2.pdf)
-* [Team 3: TBD](highlights/team3.pdf)
+* Team 1: RNA interference
+	* [Potent and specific genetic interference by double-stranded RNA in *Caenorhabditis elegans*](https://www.nature.com/articles/35888)
+	* [AGO1 interacts with *NEAT1* lncRNA and impacts nuclear compartments](https://www.biorxiv.org/content/10.1101/2025.01.26.634929v1.full)
+* Team 2: Induced pluripotent stem cells
+	* [Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors](https://www.sciencedirect.com/science/article/pii/S0092867406009767)
+	* [Amyloid beta is released by lysosomal exocytosis from hiPSC-derived neurons](https://www.biorxiv.org/content/10.1101/2025.03.01.640950v2.full)
+* Team 3: Bacterial chromosome replication
+	* [The replication of DNA in *Escherichia coli*](https://www.pnas.org/doi/10.1073/pnas.44.7.671)
+	* [DNA Polymerase Locks Replication Fork Under Stress](https://www.biorxiv.org/content/10.1101/2024.10.09.617451v1.full)
 
 #### Team Project 2: Preprint Journal Club Assignment
 
