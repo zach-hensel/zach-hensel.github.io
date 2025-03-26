@@ -20,6 +20,33 @@ Lab members in **bold**\
 Click titles to **expand abstracts** and see data/analysis from our lab for papers since 2022!
 
 <details markdown="1">
+<summary>†<b>JR Ferreira</b>, †<b>R Xu</b>, <b>Z Hensel</b>*. <span><i>Mycobacterium tuberculosis</i> FtsB and PerM interact via a C-terminal helix in FtsB to modulate cell division</span>. bioRxiv 584518, 2024. <a href="https://doi.org/10.1128/jb.00444-24">https://doi.org/10.1128/jb.00444-24</a></summary>
+
+<img src="image/research/intermediates.png" width="400" />
+
+**Abstract**: Understanding the genomic diversity of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) at the outset of the coronavirus disease 2019 pandemic can provide insight into the circumstances leading to its emergence. Early SARS-CoV-2 genomic diversity has been classified into two distinct viral lineages, denoted “A” and “B,” which we hypothesized were separately introduced into humans. Recently published data contain two genomes with a haplotype suggested to be an evolutionary intermediate to these two lineages, known as “T/T.” We used a phylodynamic approach to analyze SARS-CoV-2 genomes from early 2020 to determine whether these two T/T genomes represent an evolutionarily intermediate haplotype between lineages A and B, or if they are a later descendent of either of these two lineages. We find that these two recently published T/T genomes do not represent an evolutionarily intermediate haplotype and were, instead, derived from either lineage A or lineage B. However, we cannot conclusively determine from which lineage they were derived. After including additional data from the start of the pandemic, including these two T/T genomes, we again find a discrepancy in the molecular clock when inferring the ancestral haplotype of SARS-CoV-2, corroborating existing evidence for the separate introductions of SARS-CoV-2 lineages A and B into the human population in late 2019.
+
+</details>
+
+<details markdown="1">
+<summary>JE Pekar*, N Moshiri, P Lemey, A Crits-Christoph, F Débarre, SA Golstein, <b>Z Hensel</b>, A Rambaut, M Worobey, EC Holmes, JO Wertheim*. <span>Recently reported SARS-CoV-2 genomes suggested to be intermediate between the two early main lineages are instead likely derived</span>. Virus Evolution 11, 2025. <a href="https://doi.org/10.1093/ve/veaf008">https://doi.org/10.1093/ve/veaf008</a></summary>
+
+<img src="image/research/1710262172884.png" width="600" />
+
+**Abstract**: Latent infection by *Mycobacterium tuberculosis* (Mtb) impedes effective tuberculosis therapy and eradication. The protein PerM is essential for chronic Mtb infections in mice and acts via the divisome protein FtsB to modulate cell division. Using transgenic co-expression in *Escherichia coli*, we studied the Mtb PerM-FtsB interaction in isolation from other Mtb proteins, engineering PerM to enhance expression in the *E. coli* membrane. We confirmed the reported instability of Mtb FtsB, and we linked FtsB instability to a segment of FtsB predicted to bind cell-division proteins FtsL and FtsQ. Though narrowly conserved, the PerM-FtsB interaction emerges as a potential target for therapy targeting persistent infections by disrupting regulation of cell division. Using fluorescence microscopy, we found that stability of both FtsB and PerM hinges on their interaction via a C-terminal helix in FtsB. Molecular dynamics results supported the observation that FtsB stabilized PerM, and suggested that interactions at the PerM-FtsB interface differ from our initial structure prediction in a way that is consistent with PerM sequence conservation. Integrating protein structure prediction, molecular dynamics and single-molecule microscopy, our approach is primed to screen potential inhibitors of the PerM-FtsB interaction and can be straightforwardly adapted to explore other putative interactions.
+
+</details>
+
+<details markdown="1">
+<summary><b>Z Hensel</b>*. <span>Secondary structure of the SARS-CoV-2 genome is predictive of nucleotide substitution frequency</span>. eLife 13:RP98102, 2025. <a href="https://doi.org/10.7554/eLife.98102.3">https://doi.org/10.7554/eLife.98102.3</a></summary>
+
+<img src="image/research/1709074436982.png" width="450" />
+
+**Abstract**: Accurate estimation of the effects of mutations on SARS-CoV-2 viral fitness can inform public-health responses such as vaccine development and predicting the impact of a new variant; it can also illuminate biological mechanisms including those underlying the emergence of variants of concern. Recently, Lan et al reported a high-quality model of SARS-CoV-2 secondary structure and its underlying dimethyl sulfate (DMS) reactivity data. I investigated whether secondary structure can explain some variability in the frequency of observing different nucleotide substitutions across millions of patient sequences in the SARS-CoV-2 phylogenetic tree. Nucleotide basepairing was compared to the estimated “mutational fitness” of substitutions, a measurement of the difference between a substitution’s observed and expected frequency that is correlated with other estimates of viral fitness. This comparison revealed that secondary structure is often predictive of substitution frequency, with significant decreases in substitution frequencies at basepaired positions. Focusing on the mutational fitness of C→T, the most common type of substitution, I describe C→T substitutions at basepaired positions that characterize major SARS-CoV-2 variants; such mutations may have a greater impact on fitness than appreciated when considering substitution frequency alone.
+
+</details>
+
+<details markdown="1">
 <summary># CC Santos, N Schweizer, F Cairrão, JR, Nerea Osinalde, M Yang, CJ Gaspar, VI Rasheva, <b>Z Hensel</b>, C Adrain, TN Cordeiro, F Voigt, PA Gameiro, U Mayor, PM Domingos*. <span>Fbxo42 promotes the degradation of Ataxin-2 granules to trigger terminal Xbp1 signaling</span>. bioRxiv, 2024. <a href="https://doi.org/10.1101/2024.12.22.629979">https://doi.org/10.1101/2024.12.22.629979</a></summary>
 
 **Abstract**: The Unfolded Protein Response (UPR) is composed by homeostatic signaling pathways that are activated by the accumulation of misfolded proteins in the Endoplasmic Reticulum (ER), a condition known as ER stress. Prolonged ER stress and activation of the UPR causes cell death, by mechanisms that remain poorly understood. Here, we report that regulation of Ataxin-2 by Fbxo42 is a crucial step during UPR-induced cell death. From a genetic screen in Drosophila, we identified loss of function mutations in Fbxo42 that suppress cell death and retinal degeneration induced by the overexpression of Xbp1spliced, an important mediator of the UPR. We identified the RNA binding protein Ataxin-2 as a substrate of Fbxo42, which, as part of a Skp-A/Cullin-1 complex, promotes the ubiquitylation and degradation of Ataxin-2. Upon ER-stress, the mRNA of Xbp1 is not immediately translated but instead it is sequestered and stabilized in Ataxin-2 granules, until the Fbxo42 recruitment to these granules promotes the degradation of Ataxin-2, allowing the translation of Xbp1 mRNA at later stages of UPR activation. Our results identify Fbxo42-mediated degradation of Ataxin-2 as a key mechanism regulating the levels of Xbp1 mRNA and protein, to trigger cell death during the terminal stages of UPR activation.
@@ -50,24 +77,6 @@ Click titles to **expand abstracts** and see data/analysis from our lab for pape
 <img src="image/research/1709141678947.png" width=400 />
 
 **Abstract**: Bacterial cell division requires recruitment of peptidoglycan (PG) synthases to the division site by the tubulin homologue, FtsZ. Septal PG synthases promote septum growth. FtsZ treadmilling is proposed to drive the processive movement of septal PG synthases and septal constriction in some bacteria; however, the precise mechanisms spatio-temporally regulating PG synthase movement and activity and FtsZ treadmilling are poorly understood. Here using single-molecule imaging of division proteins in the Gram-positive pathogen <i>Staphylococcus aureus</i>, we showed that the septal PG synthase complex FtsW/PBP1 and its putative activator protein, DivIB, move with similar velocity around the division site. Impairing FtsZ treadmilling did not affect FtsW or DivIB velocities or septum constriction rates. Contrarily, PG synthesis inhibition decelerated or stopped directional movement of FtsW and DivIB, and septum constriction. Our findings suggest that a single population of processively moving FtsW/PBP1 associated with DivIB drives cell constriction independently of FtsZ treadmilling in S. aureus.
-
-</details>
-
-<details markdown="1">
-<summary># †<b>JR Ferreira</b>, †<b>R Xu</b>, <b>Z Hensel</b>*. <span><i>Mycobacterium tuberculosis</i> FtsB and PerM interact via a C-terminal helix in FtsB to modulate cell division</span>. bioRxiv 584518, 2024. <a href="https://doi.org/10.1101/2024.03.11.584518">https://doi.org/10.1101/2024.03.11.584518</a></summary>
-
-<img src="image/research/1710262172884.png" width="600" />
-
-**Abstract**: Latent infection by *Mycobacterium tuberculosis* (Mtb) impedes effective tuberculosis therapy and eradication. The protein PerM is essential for chronic Mtb infections in mice and acts via the divisome protein FtsB to modulate cell division. Using transgenic co-expression in *Escherichia coli*, we studied the Mtb PerM-FtsB interaction in isolation from other Mtb proteins, engineering PerM to enhance expression in the *E. coli* membrane. We confirmed the reported instability of Mtb FtsB, and we linked FtsB instability to a segment of FtsB predicted to bind cell-division proteins FtsL and FtsQ. Though narrowly conserved, the PerM-FtsB interaction emerges as a potential target for therapy targeting persistent infections by disrupting regulation of cell division. Using fluorescence microscopy, we found that stability of both FtsB and PerM hinges on their interaction via a C-terminal helix in FtsB. Molecular dynamics results supported the observation that FtsB stabilized PerM, and suggested that interactions at the PerM-FtsB interface differ from our initial structure prediction in a way that is consistent with PerM sequence conservation. Integrating protein structure prediction, molecular dynamics and single-molecule microscopy, our approach is primed to screen potential inhibitors of the PerM-FtsB interaction and can be straightforwardly adapted to explore other putative interactions.
-
-</details>
-
-<details markdown="1">
-<summary># <b>Z Hensel</b>*. <span>Secondary structure of the SARS-CoV-2 genome is predictive of nucleotide substitution frequency</span>. bioRxiv 581995, 2024. <a href="https://doi.org/10.1101/2024.02.27.581995">https://doi.org/10.1101/2024.02.27.581995</a></summary>
-
-<img src="image/research/1709074436982.png" width="450" />
-
-**Abstract**: Accurate estimation of the effects of mutations on SARS-CoV-2 viral fitness can inform public-health responses such as vaccine development and predicting the impact of a new variant; it can also illuminate biological mechanisms including those underlying the emergence of variants of concern. Recently, Lan et al reported a high-quality model of SARS-CoV-2 secondary structure and its underlying dimethyl sulfate (DMS) reactivity data. I investigated whether secondary structure can explain some variability in the frequency of observing different nucleotide substitutions across millions of patient sequences in the SARS-CoV-2 phylogenetic tree. Nucleotide basepairing was compared to the estimated “mutational fitness” of substitutions, a measurement of the difference between a substitution’s observed and expected frequency that is correlated with other estimates of viral fitness. This comparison revealed that secondary structure is often predictive of substitution frequency, with significant decreases in substitution frequencies at basepaired positions. Focusing on the mutational fitness of C→T, the most common type of substitution, I describe C→T substitutions at basepaired positions that characterize major SARS-CoV-2 variants; such mutations may have a greater impact on fitness than appreciated when considering substitution frequency alone.
 
 </details>
 
@@ -204,6 +213,11 @@ Journal of Visualized Experiments, 2013.
 *Mycobacterium tuberculosis FtsB and PerM interact via a C-terminal helix in FtsB to modulate cell division*.
 bioRxiv 584518, 2024.
 [DOI: 10.1101/2024.03.11.584518](https://doi.org/10.1101/2024.03.11.584518).
+
+**Z Hensel**\*.
+*Secondary structure of the SARS-CoV-2 genome is predictive of nucleotide substitution frequency.*
+bioRxiv 581995, 2024.
+[DOI: 10.1101/2024.02.27.581995](https://doi.org/10.1101/2024.02.27.581995).
 
 A Crits-Christoph, JI Levy, JE Pekar, SA Goldstein, R Singh, **Z Hensel**, K Gangavarapu, MB Rogers, N Moshiri, RF Garry, EC Holmes, MPG Koopmans, P Lemey, S Popescu, A Rambaut, DL Robertson, MA Suchard, JO Wertheim, AL Rasmussen, KG Andersen*, M Worobey\*, F Débarre\*.
 *Genetic tracing of market wildlife and viruses at the epicenter of the COVID-19 pandemic*.
