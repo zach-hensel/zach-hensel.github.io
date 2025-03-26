@@ -200,6 +200,11 @@ Journal of Visualized Experiments, 2013.
 
 ### Published preprints
 
+†**JR Ferreira**, †**R Xu**, **Z Hensel**\*.
+*Mycobacterium tuberculosis FtsB and PerM interact via a C-terminal helix in FtsB to modulate cell division*.
+bioRxiv 584518, 2024.
+[DOI: 10.1101/2024.03.11.584518](https://doi.org/10.1101/2024.03.11.584518).
+
 A Crits-Christoph, JI Levy, JE Pekar, SA Goldstein, R Singh, **Z Hensel**, K Gangavarapu, MB Rogers, N Moshiri, RF Garry, EC Holmes, MPG Koopmans, P Lemey, S Popescu, A Rambaut, DL Robertson, MA Suchard, JO Wertheim, AL Rasmussen, KG Andersen*, M Worobey\*, F Débarre\*.
 *Genetic tracing of market wildlife and viruses at the epicenter of the COVID-19 pandemic*.
 bioRxiv 557637, 2023.
