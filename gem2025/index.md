@@ -66,7 +66,7 @@ Course dates: 24 March--28 March, 2023
 	* [ChimeraX -- easier to install](https://www.cgl.ucsf.edu/chimerax/download.html)
 	* [Pymol -- easier to user](https://pymol.org/edu/)
 	* [Pymol open source -- possibly difficult to install](https://anaconda.org/conda-forge/pymol-open-source)
-* [Modified ColabFold notebook](https://colab.research.google.com/drive/16EKofRtp_YEh2zwEbAfRgLTcbh8q0HC7?usp=sharing)
+* [ColabFold notebook](https://colabfold.com/)
 	* [ColabFold github repository](https://github.com/sokrypton/ColabFold)
 	* Color by pLDDT in Pymol with the command `spectrum b, red_yellow_green_cyan_blue, minimum=50, maximum=90`
 
