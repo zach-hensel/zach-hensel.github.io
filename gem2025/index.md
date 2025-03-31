@@ -4,33 +4,21 @@ This is the website for the curricular unit **Gene Expression Mechanisms**.
 
 Course dates: 24 March--28 March, 2023
 
-### Structure prediction tools
-
-* [ColabFold (AlphaFold2 and AlphaFold-multimer)](https://colabfold.com/)
-	* [More details at ColabFold GitHub repository](https://github.com/sokrypton/ColabFold)
-* [Foldseek](https://search.foldseek.com/search)
-* [AlphaFold Server (AlphaFold3)](https://alphafoldserver.com/)
-* [Chai1 (similar to AlphaFold3](https://lab.chaidiscovery.com/)
-
 ### Project proposal evaluations
-[Please fill out the form at this link and mail it to me](https://docs.google.com/spreadsheets/d/1a1BWC440SxSYPmQFdevmWQ3nNuTdFGoBCy2SVkwwkqg/edit?usp=sharing)
 
-### Course information
+Please take a few minutes to read the projects from the other two teams and provide some brief, constructive feedback to classmates--the expectation is first impressions and not in-depth analysis. I will send a summary of colleagues' feedback and some more detailed comments of my own once I received everyone's responses.
 
-* [Syllabus and Project/Evaluation Guidelines](2025_syllabus.pdf) (PDF)
-* [Calendar](2025_calendar.pdf) (PDF)
+You can use either of these links to get the evaluation spreadsheet; you can either share with me with Google (zhensel@gmail.com) or send as an email attachment.
 
-### Optional exercises and background
+* [Shared Google spreadsheet](https://docs.google.com/spreadsheets/d/1a1BWC440SxSYPmQFdevmWQ3nNuTdFGoBCy2SVkwwkqg/edit?usp=sharing)
+* [Download Excel file](projects/project-evaluation-gem2025.xlsx)
 
-* [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0)
+#### Team reports
 
-* [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-
-* [Stochastic Simulations with Tellurium Google colab notebook](https://colab.research.google.com/drive/1KAZ0g7CA-vjWGVQywEavk2AMnPXAb-15)
-
-* [Tellurium notebooks—An environment for reproducible dynamical modeling in systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021116/)
-
-* [Reference for writing models using Antimony](https://tellurium.readthedocs.io/en/latest/antimony.html)
+* Team 1: [Decoding AGO1’s Role in Paraspeckle Assembly: Direct vs. NEAT1-Mediated Interactions with
+Paraspeckle Proteins](projects/team-1-gem2025.pdf)
+* Team 2: [Inhibition of Rab27b and Munc13-4 interaction to reduce lysosomal secretion of amyloid](projects/team-2-gem2025.pdf)
+* Team 3: [Mechanisms of DNA Polymerase III under replication stress](projects/team-3-gem2025.pdf)
 
 ### Team Projects
 
@@ -69,6 +57,31 @@ Course dates: 24 March--28 March, 2023
 * [ColabFold notebook](https://colabfold.com/)
 	* [ColabFold github repository](https://github.com/sokrypton/ColabFold)
 	* Color by pLDDT in Pymol with the command `spectrum b, red_yellow_green_cyan_blue, minimum=50, maximum=90`
+
+### Structure prediction tools
+
+* [ColabFold (AlphaFold2 and AlphaFold-multimer)](https://colabfold.com/)
+	* [More details at ColabFold GitHub repository](https://github.com/sokrypton/ColabFold)
+* [Foldseek](https://search.foldseek.com/search)
+* [AlphaFold Server (AlphaFold3)](https://alphafoldserver.com/)
+* [Chai1 (similar to AlphaFold3](https://lab.chaidiscovery.com/)
+
+### Course information
+
+* [Syllabus and Project/Evaluation Guidelines](2025_syllabus.pdf) (PDF)
+* [Calendar](2025_calendar.pdf) (PDF)
+
+### Optional exercises and background
+
+* [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0)
+
+* [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+* [Stochastic Simulations with Tellurium Google colab notebook](https://colab.research.google.com/drive/1KAZ0g7CA-vjWGVQywEavk2AMnPXAb-15)
+
+* [Tellurium notebooks—An environment for reproducible dynamical modeling in systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021116/)
+
+* [Reference for writing models using Antimony](https://tellurium.readthedocs.io/en/latest/antimony.html)
 
 ### Resources
 
