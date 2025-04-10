@@ -10,17 +10,9 @@ If you are interested in joining the lab, please contact Zach to discuss possibl
 
 I advocated for open research initiatives (especially preprint) with [ASAPbio](http://asapbio.org/asapbio-ambassadors) and previously with [eLife](https://elifesciences.org/inside-elife/912b0679/early-career-advisory-group-elife-welcomes-150-ambassadors-of-good-practice-in-science). Check out the [ITQB preprint journal club](preprintjc).
 
-### Ruilan Xu, MSc (post-Masters research fellowship)
-
-Ruilan studied biology at [Jinan University](https://english.jnu.edu.cn/) in China, where she says that she became fascinated with exploring the microbial world, leading her to complete Master's thesis in microbiology at Stockholm University in Sweden. Ruilan's current research interest is the study of infectious pathogens, such as *Mycobacterium tuberculosis*. In her fellowship, she is expanding her expertise in microscopy methods to study protein-protein interactions with single-molecule tracking, and she also brings her experience in mycobacterial cell culture to the lab.
-
-During her spare time, Ruilan enjoys visiting museums to learn more about cultures around the world or about specific subjects such as toy, chocolate, or game museums. Additionally, she likes singing and dancing, and says, "music serves as the perfect remedy for weariness in my life."
-
-## Alumni
-
 ### PhD students
 
-* Sara Costa, PhD (ITQB NOVA, [MolBioS](http://www.itqb.unl.pt/education/phd-molecular-bioscience), 2023). Thesis: *New approaches to study Staphlococcus aureus elongation and division*.\
+* Sara Costa, PhD (ITQB NOVA, [MolBioS](http://www.itqb.unl.pt/education/phd-molecular-bioscience), 2018-2023). Thesis: *New approaches to study Staphlococcus aureus elongation and division*.\
 Sara graduated in Biology (Molecular Biology and Genetics) from Faculty of Sciences, University of Lisbon and then attended a Masters program in Molecular Genetics and Biomedicine at Faculty of Science and Technology at NOVA University Lisbon. Her main scientific interest is to study the role of gene expression regulation in controlling cell division in *Staphylococcus aureus*.
 
 ### Masters students
@@ -36,6 +28,8 @@ Sara graduated in Biology (Molecular Biology and Genetics) from Faculty of Scien
 * João Silva, MSc (FCUL, 2018). Thesis: *Engineering low-noise gene expression systems for single-molecule experiments*
 
 ### Research fellows and students from post-graduate courses
+
+* Ruilan Xu, MSc (post-Masters research fellowship, 2023-2024). Ruilan studied biology at [Jinan University](https://english.jnu.edu.cn/) in China, and completed her Master's thesis in microbiology at [Stockholm University](https://www.su.se/english/) in Sweden. Ruilan's project focused on the response of protein-protein interactions from *Mycobacterium tuberculosis* to oxidative stress, using single-molecule tracking and implementing and developing mycobacterial gene expression systems in *M. smegmatis*.
 
 * Soraia Lopes, MSc (2017–2019). Soraia graduated in Biology (Molecular Biology and Genetics) from Faculty of Sciences, University of Lisbon and then attended a Masters program in Biotechnology and Bioengineering at School of Biosciences, University of Kent. In our lab, she worked on developing tools for RNA and protein imaging in *E. coli*.
 
