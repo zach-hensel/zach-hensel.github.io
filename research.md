@@ -20,7 +20,16 @@ Lab members in **bold**\
 Click titles to **expand abstracts** and see data/analysis from our lab for papers since 2022!
 
 <details markdown="1">
-<summary>†<b>JR Ferreira</b>, †<b>R Xu</b>, <b>Z Hensel</b>*. <span><i>Mycobacterium tuberculosis</i> FtsB and PerM interact via a C-terminal helix in FtsB to modulate cell division</span>. bioRxiv 584518, 2024. <a href="https://doi.org/10.1128/jb.00444-24">https://doi.org/10.1128/jb.00444-24</a></summary>
+<summary><b>Z Hensel</b>*, F Débarre. <span>An updated dataset of early SARS-CoV-2 diversity supports a wildlife market origin</span>. bioRxiv 647275, 2025. <a href="https://doi.org/10.1101/2025.04.05.647275">https://doi.org/10.1101/2025.04.05.647275</a></summary>
+
+<img src="image/research/spillovers_result.png" width="600" />
+
+**Abstract**: The origin of SARS-CoV-2 has been intensely scrutinized, and epidemiological and genomic evidence has consistently pointed to Wuhan’s Huanan Seafood Wholesale Market as the epicenter of the COVID-19 pandemic. Early cases were associated with this market, and environmental sequencing placed the common ancestor of SARS-CoV-2 genomic diversity within the market. Phylogenetic analysis also suggested separate introductions of lineages A and B into the human population, a finding that can be tested with additional data. Here, we curated an expanded sequence dataset of early SARS-CoV-2 viral genomes, including newly available sequences from mid-January 2020. In this dataset, we found no additional support for previously proposed alternative progenitor sequences, or for any evolutionary intermediates between lineages A and B in the human population. Instead, we identified SARS-CoV-2 lineages that may have spread from the market, and additional samples of a sublineage of lineage A with three mutations, including one found in closely related bat coronaviruses. Although our analysis of early pandemic genomes suggests that this mutation is unlikely to characterize the immediate SARS-CoV-2 ancestor, it is more plausible than two previously proposed ancestral genomes. These findings reinforce the proposed emergence of SARS-CoV-2 from the wildlife trade at the Huanan market, demonstrating how new data continues to both solidify and clarify our understanding of how the pandemic began.
+
+</details>
+
+<details markdown="1">
+<summary>†<b>JR Ferreira</b>, †<b>R Xu</b>, <b>Z Hensel</b>*. <span><i>Mycobacterium tuberculosis</i> FtsB and PerM interact via a C-terminal helix in FtsB to modulate cell division</span>. Journal of Bacteriology 207, 2025. <a href="https://doi.org/10.1128/jb.00444-24">https://doi.org/10.1128/jb.00444-24</a></summary>
 
 <img src="image/research/1710262172884.png" width="600" />
 

@@ -10,10 +10,10 @@ Our lab answers questions in microbial molecular biology, with a focus on single
 
 ## Current research
 
-### Latest preprint
+### Latest peer reviewed paper
 
 From João Ramalheira Ferreira and Ruilan Xu in bioRxiv:
-[Mycobacterium tuberculosis FtsB and PerM interact via a C-terminal helix in FtsB to modulate cell division](https://doi.org/10.1101/2024.03.11.584518)
+[Mycobacterium tuberculosis FtsB and PerM interact via a C-terminal helix in FtsB to modulate cell division](https://journals.asm.org/doi/10.1128/jb.00444-24)
 
 We used fluorescence microscopy including single-molecule tracking to investigate the *M. tuberculosis* PerM-FtsB interaction, expressing the proteins in *E. coli*cells.
 
@@ -25,7 +25,7 @@ Here's a movie of the *M. tuberculosis* divisome with PerM-FtsB interaction:
   <source src="/img/perm-divisome.webm" type="video/mp4">
 </video>
 
-### Recent peer reviewed work
+### Other research in the lab
 
 Check out our other recent work on [a protein complex essential for remodelling the *E. coli* cell wall](https://www.nature.com/articles/s41467-023-39921-4) every cell time the cell divides. In collaboration with [Jie Xiao&#39;s lab](https://xiao.med.jhmi.edu/) and [Albert Lau&#39;s lab](https://lau.med.jhmi.edu/), we investigated the structure and dynamics of this "divisome" to examine how variations at key protein-protein interfaces could impact essential enzymatic activities.
 
